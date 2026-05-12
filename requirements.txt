@@ -1,0 +1,17 @@
+# platform: linux-64
+
+opencv-python-headless==4.10.0.84
+torch==2.7.1
+pillow==10.3.0
+tqdm==4.65.0
+mmengine==0.10.7
+torchvision==0.22.1
+safetensors==0.4.3
+huggingface-hub==0.36.0
+einops==0.8.0
+accelerate==1.6.0
+transformers==4.57.1
+protobuf==3.20.2
+sentencepiece==0.1.99
+pip install peft==0.15.2
+pip install xformers==0.0.31.post1
