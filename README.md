@@ -81,6 +81,7 @@ For more visual results, go checkout our <a href="https://zhao0100.github.io/Rev
 ### ✅ TODO
 
 - [ ] Release RevealLayer-100K and RevealLayerBench.
+- [ ] Release an improved version of RevealLayer with stronger layer consistency and higher inference efficiency.
 
 ---
 
