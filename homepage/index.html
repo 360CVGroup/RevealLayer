@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>RevealLayer</title>
+
+  <style>
+    :root {
+      --text-main: #111111;
+      --text-body: #333333;
+      --text-muted: #666666;
+      --border: #e7e7e7;
+      --bg: #ffffff;
+      --bg-soft: #fafafa;
+
+      --paper-bg: #ffe8e5;
+      --paper-border: #f2b4ad;
+      --paper-text: #b42318;
+
+      --code-bg: #eaf1ff;
+      --code-border: #bdd1ff;
+      --code-text: #1d4ed8;
+
+      --data-bg: #e7f8ee;
+      --data-border: #b7e4c7;
+      --data-text: #15803d;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background: var(--bg);
+      color: var(--text-main);
+      line-height: 1.7;
+    }
+
+    .page {
+      max-width: 1240px;
+      margin: 0 auto;
+      padding: 34px 24px 72px;
+    }
+
+    .hero {
+      text-align: center;
+      margin-bottom: 58px;
+      padding-top: 6px;
+    }
+
+    h1 {
+      margin: 0 auto 22px;
+      color: #000000;
+      letter-spacing: -0.8px;
+    }
+
+    .title-logo {
+      display: block;
+      width: min(560px, 78vw);
+      margin: 0 auto 8px;
+    }
+
+    .title-sub {
+      display: block;
+      max-width: 1180px;
+      margin: 0 auto;
+      font-size: clamp(30px, 3.9vw, 50px);
+      line-height: 1.18;
+      font-weight: 800;
+    }
+
+    .authors {
+      max-width: 1120px;
+      margin: 24px auto 6px;
+      font-size: 20px;
+      line-height: 1.8;
+      color: #444444;
+      font-weight: 600;
+    }
+
+    .affiliations {
+      margin: 4px 0 0;
+      font-size: 19px;
+      color: #444444;
+      font-weight: 600;
+    }
+
+    .notes {
+      margin: 8px 0 0;
+      font-size: 15px;
+      color: #666666;
+      font-weight: 600;
+    }
+
+    .buttons {
+      margin-top: 26px;
+    }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 9px;
+      margin: 7px;
+      padding: 11px 22px;
+      border-radius: 999px;
+      border: 1px solid;
+      text-decoration: none;
+      font-size: 16px;
+      font-weight: 750;
+      transition: transform 0.16s ease, box-shadow 0.16s ease, filter 0.16s ease;
+    }
+
+    .btn:hover {
+      transform: translateY(-1px);
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.10);
+      filter: brightness(1.02);
+    }
+
+    .btn-icon {
+      width: 18px;
+      height: 18px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+
+    .btn.paper {
+      background: var(--paper-bg);
+      border-color: var(--paper-border);
+      color: var(--paper-text);
+    }
+
+    .btn.code {
+      background: var(--code-bg);
+      border-color: var(--code-border);
+      color: var(--code-text);
+    }
+
+    .btn.dataset {
+      background: var(--data-bg);
+      border-color: var(--data-border);
+      color: var(--data-text);
+    }
+
+    section {
+      margin-top: 64px;
+    }
+
+    h2 {
+      margin: 0 0 28px;
+      text-align: center;
+      font-size: clamp(34px, 3.4vw, 48px);
+      line-height: 1.18;
+      font-weight: 800;
+      color: #111111;
+      letter-spacing: -0.4px;
+    }
+
+    h2::after {
+      content: "";
+      display: block;
+      width: 72px;
+      height: 3px;
+      margin: 14px auto 0;
+      border-radius: 999px;
+      background: #111111;
+      opacity: 0.16;
+    }
+
+    p {
+      margin: 0;
+      font-size: 17px;
+      color: var(--text-body);
+    }
+
+    .abstract {
+      max-width: 1100px;
+      margin: 0 auto;
+      text-align: justify;
+    }
+
+    .figure-panel {
+      margin: 0 auto 36px;
+    }
+
+    .figure-panel:last-child {
+      margin-bottom: 0;
+    }
+
+    .figure-title {
+      margin-bottom: 16px;
+      text-align: center;
+      font-size: 22px;
+      line-height: 1.38;
+      font-weight: 750;
+      color: #222222;
+    }
+
+    .figure-panel img {
+      display: block;
+      width: 100%;
+      max-width: 100%;
+      margin: 0 auto;
+      border-radius: 12px;
+      border: 1px solid #eeeeee;
+      background: #ffffff;
+    }
+
+    .figure-panel img + img {
+      margin-top: 24px;
+    }
+
+    pre {
+      margin: 0;
+      padding: 20px 22px;
+      background: var(--bg-soft);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      overflow-x: auto;
+      font-size: 14px;
+      line-height: 1.55;
+    }
+
+    code {
+      font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+    }
+
+    @media (max-width: 820px) {
+      .page {
+        padding: 24px 16px 56px;
+      }
+
+      .title-logo {
+        width: min(430px, 86vw);
+      }
+
+      .title-sub {
+        font-size: 29px;
+      }
+
+      .authors {
+        font-size: 17px;
+      }
+
+      .affiliations {
+        font-size: 16px;
+      }
+
+      .notes {
+        font-size: 14px;
+      }
+
+      .btn {
+        font-size: 15px;
+        padding: 10px 16px;
+      }
+
+      section {
+        margin-top: 52px;
+      }
+
+      h2 {
+        font-size: 32px;
+      }
+
+      .figure-title {
+        font-size: 19px;
+      }
+
+      p {
+        font-size: 16px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <main class="page">
+
+    <section class="hero">
+      <h1>
+        <img class="title-logo" src="RevealLayer/RevealLayer_logo.png" alt="RevealLayer">
+        <span class="title-sub">Disentangling Hidden and Visible Layers via Occlusion-Aware Image Decomposition</span>
+      </h1>
+
+      <p class="authors">
+        Binhao Wang<sup>1,2,*</sup>,&nbsp;
+        Shihao Zhao<sup>1,2,*</sup>,&nbsp;
+        Bo Cheng<sup>2,*,†</sup>,&nbsp;
+        Qiuyu Ji<sup>1,2</sup>,&nbsp;
+        Yuhang Ma<sup>2</sup>,<br>
+        Liebucha Wu<sup>2</sup>,&nbsp;
+        Shanyuan Liu<sup>2</sup>,&nbsp;
+        Dawei Leng<sup>2,‡</sup>,&nbsp;
+        Yuhui Yin<sup>2</sup>
+      </p>
+
+      <p class="affiliations">
+        <sup>1</sup>Wenzhou University&nbsp;&nbsp;&nbsp;
+        <sup>2</sup>360 AI Research
+      </p>
+
+      <p class="notes">* Equal Contribution. &nbsp; † Project Lead. &nbsp; ‡ Corresponding Author.</p>
+
+      <div class="buttons">
+        <a class="btn paper" href="TODO_PAPER_LINK">
+          <span class="btn-icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24" fill="none" width="18" height="18" xmlns="http://www.w3.org/2000/svg">
+              <path d="M7 3.5H13.5L18 8V20.5H7V3.5Z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/>
+              <path d="M13 3.5V8.5H18" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/>
+              <path d="M9.5 12H15.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
+              <path d="M9.5 15.5H15.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
+            </svg>
+          </span>
+          Paper
+        </a>
+
+        <a class="btn code" href="TODO_CODE_LINK">
+          <span class="btn-icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24" fill="none" width="18" height="18" xmlns="http://www.w3.org/2000/svg">
+              <path d="M8.5 8L4.5 12L8.5 16" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+              <path d="M15.5 8L19.5 12L15.5 16" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+              <path d="M13.5 6L10.5 18" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
+            </svg>
+          </span>
+          Code
+        </a>
+
+        <a class="btn dataset" href="TODO_DATASET_LINK">
+          <span class="btn-icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24" fill="none" width="18" height="18" xmlns="http://www.w3.org/2000/svg">
+              <ellipse cx="12" cy="6.5" rx="6.5" ry="2.8" stroke="currentColor" stroke-width="1.8"/>
+              <path d="M5.5 6.5V12.2C5.5 13.75 8.41 15 12 15C15.59 15 18.5 13.75 18.5 12.2V6.5" stroke="currentColor" stroke-width="1.8"/>
+              <path d="M5.5 12.2V17.5C5.5 19.04 8.41 20.3 12 20.3C15.59 20.3 18.5 19.04 18.5 17.5V12.2" stroke="currentColor" stroke-width="1.8"/>
+            </svg>
+          </span>
+          Dataset
+        </a>
+      </div>
+    </section>
+
+    <section id="abstract">
+      <h2>Abstract</h2>
+      <p class="abstract">
+        Recent diffusion-based approaches have made substantial progress in image layer decomposition.
+        However, accurately decomposing complex natural images remains challenging due to difficulties in occlusion completion,
+        robust layer disentanglement, and precise foreground boundaries. Moreover, the scarcity of high-quality multi-layer natural image
+        datasets limits advancement. To address these challenges, we propose <strong>RevealLayer</strong>, a diffusion-based framework
+        that decomposes an RGB image into multiple RGBA layers, enabling precise layer separation and reliable recovery of occluded content
+        in natural images. RevealLayer incorporates three key components: (1) a <strong>Region-Aware Attention</strong> module to disentangle
+        hidden and visible layers; (2) an <strong>Occlusion-Guided Adapter</strong> to leverage contextual information to enhance overlapping
+        regions; and (3) a <strong>composite loss</strong> to enforce sharp alpha boundaries and suppress residual artifacts. To support
+        training and evaluation, we introduce <strong>RevealLayer-100K</strong>, a high-quality multi-layer natural image dataset constructed
+        through a collaboration between automated algorithms and human annotation, and further establish <strong>RevealLayerBench</strong>
+        for benchmarking layer decomposition in general natural scenes. Extensive experiments demonstrate that RevealLayer consistently
+        outperforms existing approaches in layer decomposition.
+      </p>
+    </section>
+
+    <section id="overview">
+      <h2>Overview</h2>
+      <div class="figure-panel">
+        <div class="figure-title">
+          Overview of the RevealLayer framework for decomposing an RGB image into multiple RGBA layers
+        </div>
+        <img src="RevealLayer/framework.png" alt="Framework of RevealLayer" loading="lazy">
+      </div>
+    </section>
+    
+    <section id="pipeline">
+      <h2>Dataset Construction Pipeline</h2>
+      <div class="figure-panel">
+        <div class="figure-title">
+          Construction pipeline of RevealLayer-100K with automated generation and human annotation
+        </div>
+        <img src="RevealLayer/pipeline.png" alt="Construction pipeline of RevealLayer-100K" loading="lazy">
+      </div>
+    </section>
+    
+    <section id="comparison">
+      <h2>Qualitative Comparison on Layer Decomposition</h2>
+      <div class="figure-panel">
+        <div class="figure-title">
+          Qualitative comparison on layer decomposition, including text-consistency preservation and matting capability for transparent images and complex boundaries
+        </div>
+        <img src="RevealLayer/comparison.png" alt="Qualitative comparison on layer decomposition 1" loading="lazy">
+        <img src="RevealLayer/comparison2.png" alt="Qualitative comparison on layer decomposition 2" loading="lazy">
+        <!-- 新增图片下方描述正文 -->
+        <p class="figure-desc">
+            <strong>Qwen-Image-Layered</strong> introduces variable-layer decomposition, yet the number,
+order, and semantic meaning of the generated layers remain ambiguous. <strong>CLD</strong> uses boundingbox conditioning for controllable decomposition, but it is mostly restricted to stylized poster images and tends to produce residual artifacts and blurred object edges. <strong>RevealLayer</strong> achieves better bbox-based controllability while suppressing target-related artifacts, completing occluded regions, and preserving visible-region consistency.
+        </p>
+      </div>
+    </section>
+    
+    <section id="decomposition">
+      <h2>More cases of the RevealLayer</h2>
+      <div class="figure-panel">
+        <div class="figure-title">
+          Layer decomposition in natural scenes, including cases with multiple layers, complex occlusions, and small foreground objects
+        </div>
+        <img src="RevealLayer/demo1.png" alt="Layer decomposition result 1" loading="lazy">
+        <img src="RevealLayer/demo2.png" alt="Layer decomposition result 2" loading="lazy">
+        <img src="RevealLayer/HardDemo1.png" alt="Layer decomposition result 3" loading="lazy">
+        <img src="RevealLayer/HardDemo2.png" alt="Layer decomposition result 4" loading="lazy">
+      </div>
+    </section>
+    
+    <section id="controllability">
+      <h2>Controllability</h2>
+      <div class="figure-panel">
+        <div class="figure-title">
+          Region-guided controllable layer decomposition through user-specified bounding boxes
+        </div>
+        <img src="RevealLayer/controllability1.png" alt="Controllability result 1" loading="lazy">
+        <img src="RevealLayer/controllability2.png" alt="Controllability result 2" loading="lazy">
+      </div>
+    </section>
+    
+    <section id="object-removal">
+      <h2>Object Removal</h2>
+      <div class="figure-panel">
+        <div class="figure-title">
+          Bounding-box-guided object removal on OBER, removing target objects and their induced effects without requiring object masks or effect masks
+        </div>
+        <img src="RevealLayer/remove_ober.png" alt="Object removal on OBER" loading="lazy">
+      </div>
+    
+      <div class="figure-panel">
+        <div class="figure-title">
+          Bounding-box-guided object removal on RevealLayerBench, removing large objects without residual artifacts or geometric distortions using only bounding boxes
+        </div>
+        <img src="RevealLayer/remove_RBench.png" alt="Object removal on RevealLayerBench" loading="lazy">
+      </div>
+    </section>
+    
+    <section id="matting">
+      <h2>Image Matting</h2>
+      <div class="figure-panel">
+        <div class="figure-title">
+          Bounding-box-guided image matting on AIM-500, extracting foregrounds with complex boundaries without requiring foreground masks
+        </div>
+        <img src="RevealLayer/matting_AIM500.png" alt="Image matting on AIM-500" loading="lazy">
+      </div>
+    
+      <div class="figure-panel">
+        <div class="figure-title">
+          Bounding-box-guided multi-object matting on RW100, separating multiple foreground objects using only bounding boxes
+        </div>
+        <img src="RevealLayer/matting_RW100.png" alt="Image matting on RW100" loading="lazy">
+      </div>
+    </section>
+
+    <section id="bibtex">
+      <h2>BibTeX</h2>
+      <pre><code>@inproceedings{wang2026reveallayer,
+  title={RevealLayer: Disentangling Hidden and Visible Layers via Occlusion-Aware Image Decomposition},
+  author={Wang, Binhao and Zhao, Shihao and Cheng, Bo and Ji, Qiuyu and Ma, Yuhang and Wu, Liebucha and Liu, Shanyuan and Leng, Dawei and Yin, Yuhui},
+  booktitle={International Conference on Machine Learning},
+  year={2026}
+}</code></pre>
+    </section>
+
+  </main>
+</body>
+</html>
