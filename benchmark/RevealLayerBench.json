@@ -1,0 +1,6849 @@
+[
+  {
+    "imgid": "00027",
+    "full_image": "./RevealLayerBench/00027/full_image.png",
+    "background": "./RevealLayerBench/00027/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/00027/layer_0.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          315,
+          244,
+          715,
+          767
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "00047",
+    "full_image": "./RevealLayerBench/00047/full_image.png",
+    "background": "./RevealLayerBench/00047/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/00047/layer_0.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          339,
+          95,
+          651,
+          767
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "00187272",
+    "full_image": "./RevealLayerBench/00187272/full_image.png",
+    "background": "./RevealLayerBench/00187272/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/00187272/layer_0.png",
+      "./RevealLayerBench/00187272/layer_1.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          23,
+          489,
+          678,
+          983
+        ],
+        "score": 0.9518783688545227
+      },
+      {
+        "bbox": [
+          300,
+          122,
+          695,
+          931
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "00217",
+    "full_image": "./RevealLayerBench/00217/full_image.png",
+    "background": "./RevealLayerBench/00217/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/00217/layer_0.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          353,
+          339,
+          833,
+          873
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "00225",
+    "full_image": "./RevealLayerBench/00225/full_image.png",
+    "background": "./RevealLayerBench/00225/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/00225/layer_0.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          368,
+          130,
+          697,
+          767
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "00248007",
+    "full_image": "./RevealLayerBench/00248007/full_image.png",
+    "background": "./RevealLayerBench/00248007/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/00248007/layer_0.png",
+      "./RevealLayerBench/00248007/layer_1.png",
+      "./RevealLayerBench/00248007/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          480,
+          390,
+          693,
+          544
+        ]
+      },
+      {
+        "bbox": [
+          230,
+          300,
+          933,
+          945
+        ]
+      },
+      {
+        "bbox": [
+          147,
+          63,
+          640,
+          472
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "00353435",
+    "full_image": "./RevealLayerBench/00353435/full_image.png",
+    "background": "./RevealLayerBench/00353435/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/00353435/layer_0.png",
+      "./RevealLayerBench/00353435/layer_1.png",
+      "./RevealLayerBench/00353435/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          394,
+          113,
+          797,
+          480
+        ]
+      },
+      {
+        "bbox": [
+          512,
+          500,
+          924,
+          911
+        ]
+      },
+      {
+        "bbox": [
+          11,
+          511,
+          399,
+          925
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "00424",
+    "full_image": "./RevealLayerBench/00424/full_image.png",
+    "background": "./RevealLayerBench/00424/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/00424/layer_0.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          365,
+          181,
+          663,
+          882
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "00441",
+    "full_image": "./RevealLayerBench/00441/full_image.png",
+    "background": "./RevealLayerBench/00441/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/00441/layer_0.png",
+      "./RevealLayerBench/00441/layer_1.png",
+      "./RevealLayerBench/00441/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          426,
+          371,
+          598,
+          771
+        ]
+      },
+      {
+        "bbox": [
+          598,
+          611,
+          838,
+          810
+        ]
+      },
+      {
+        "bbox": [
+          221,
+          617,
+          429,
+          791
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "00549",
+    "full_image": "./RevealLayerBench/00549/full_image.png",
+    "background": "./RevealLayerBench/00549/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/00549/layer_0.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          347,
+          382,
+          793,
+          850
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "00601",
+    "full_image": "./RevealLayerBench/00601/full_image.png",
+    "background": "./RevealLayerBench/00601/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/00601/layer_0.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          326,
+          187,
+          687,
+          766
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "00610",
+    "full_image": "./RevealLayerBench/00610/full_image.png",
+    "background": "./RevealLayerBench/00610/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/00610/layer_0.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          336,
+          239,
+          688,
+          833
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "00657099",
+    "full_image": "./RevealLayerBench/00657099/full_image.png",
+    "background": "./RevealLayerBench/00657099/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/00657099/layer_0.png",
+      "./RevealLayerBench/00657099/layer_1.png",
+      "./RevealLayerBench/00657099/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          321,
+          0,
+          723,
+          656
+        ]
+      },
+      {
+        "bbox": [
+          235,
+          373,
+          513,
+          653
+        ]
+      },
+      {
+        "bbox": [
+          516,
+          378,
+          795,
+          657
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "00791",
+    "full_image": "./RevealLayerBench/00791/full_image.png",
+    "background": "./RevealLayerBench/00791/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/00791/layer_0.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          289,
+          308,
+          745,
+          767
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "00793",
+    "full_image": "./RevealLayerBench/00793/full_image.png",
+    "background": "./RevealLayerBench/00793/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/00793/layer_0.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          288,
+          298,
+          736,
+          766
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "00933",
+    "full_image": "./RevealLayerBench/00933/full_image.png",
+    "background": "./RevealLayerBench/00933/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/00933/layer_0.png",
+      "./RevealLayerBench/00933/layer_1.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          662,
+          299,
+          802,
+          800
+        ]
+      },
+      {
+        "bbox": [
+          426,
+          648,
+          614,
+          829
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "01647",
+    "full_image": "./RevealLayerBench/01647/full_image.png",
+    "background": "./RevealLayerBench/01647/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/01647/layer_0.png",
+      "./RevealLayerBench/01647/layer_1.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          620,
+          509,
+          897,
+          700
+        ]
+      },
+      {
+        "bbox": [
+          358,
+          543,
+          638,
+          726
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "01806",
+    "full_image": "./RevealLayerBench/01806/full_image.png",
+    "background": "./RevealLayerBench/01806/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/01806/layer_0.png",
+      "./RevealLayerBench/01806/layer_1.png",
+      "./RevealLayerBench/01806/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          358,
+          524,
+          658,
+          776
+        ]
+      },
+      {
+        "bbox": [
+          693,
+          620,
+          922,
+          764
+        ]
+      },
+      {
+        "bbox": [
+          153,
+          626,
+          316,
+          762
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "02131052",
+    "full_image": "./RevealLayerBench/02131052/full_image.png",
+    "background": "./RevealLayerBench/02131052/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/02131052/layer_0.png",
+      "./RevealLayerBench/02131052/layer_1.png",
+      "./RevealLayerBench/02131052/layer_2.png",
+      "./RevealLayerBench/02131052/layer_3.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          466,
+          451,
+          744,
+          735
+        ],
+        "score": 0.9768989086151123
+      },
+      {
+        "bbox": [
+          125,
+          233,
+          495,
+          452
+        ]
+      },
+      {
+        "bbox": [
+          230,
+          548,
+          613,
+          855
+        ]
+      },
+      {
+        "bbox": [
+          580,
+          281,
+          965,
+          604
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "02784538",
+    "full_image": "./RevealLayerBench/02784538/full_image.png",
+    "background": "./RevealLayerBench/02784538/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/02784538/layer_0.png",
+      "./RevealLayerBench/02784538/layer_1.png",
+      "./RevealLayerBench/02784538/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          166,
+          573,
+          509,
+          797
+        ]
+      },
+      {
+        "bbox": [
+          123,
+          397,
+          503,
+          887
+        ]
+      },
+      {
+        "bbox": [
+          534,
+          402,
+          916,
+          884
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "02965538",
+    "full_image": "./RevealLayerBench/02965538/full_image.png",
+    "background": "./RevealLayerBench/02965538/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/02965538/layer_0.png",
+      "./RevealLayerBench/02965538/layer_1.png",
+      "./RevealLayerBench/02965538/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          87,
+          735,
+          530,
+          926
+        ],
+        "score": 0.8898831605911255
+      },
+      {
+        "bbox": [
+          557,
+          384,
+          955,
+          914
+        ]
+      },
+      {
+        "bbox": [
+          34,
+          19,
+          708,
+          815
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "03046",
+    "full_image": "./RevealLayerBench/03046/full_image.png",
+    "background": "./RevealLayerBench/03046/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/03046/layer_0.png",
+      "./RevealLayerBench/03046/layer_1.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          362,
+          484,
+          616,
+          846
+        ]
+      },
+      {
+        "bbox": [
+          665,
+          551,
+          1018,
+          847
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "03143",
+    "full_image": "./RevealLayerBench/03143/full_image.png",
+    "background": "./RevealLayerBench/03143/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/03143/layer_0.png",
+      "./RevealLayerBench/03143/layer_1.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          350,
+          482,
+          573,
+          823
+        ]
+      },
+      {
+        "bbox": [
+          602,
+          626,
+          981,
+          914
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "03356",
+    "full_image": "./RevealLayerBench/03356/full_image.png",
+    "background": "./RevealLayerBench/03356/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/03356/layer_0.png",
+      "./RevealLayerBench/03356/layer_1.png",
+      "./RevealLayerBench/03356/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          345,
+          210,
+          644,
+          803
+        ]
+      },
+      {
+        "bbox": [
+          224,
+          561,
+          344,
+          768
+        ]
+      },
+      {
+        "bbox": [
+          670,
+          569,
+          791,
+          777
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "03710662",
+    "full_image": "./RevealLayerBench/03710662/full_image.png",
+    "background": "./RevealLayerBench/03710662/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/03710662/layer_0.png",
+      "./RevealLayerBench/03710662/layer_1.png",
+      "./RevealLayerBench/03710662/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          573,
+          637,
+          1024,
+          1024
+        ]
+      },
+      {
+        "bbox": [
+          331,
+          284,
+          805,
+          934
+        ]
+      },
+      {
+        "bbox": [
+          0,
+          556,
+          357,
+          840
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "03983694",
+    "full_image": "./RevealLayerBench/03983694/full_image.png",
+    "background": "./RevealLayerBench/03983694/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/03983694/layer_0.png",
+      "./RevealLayerBench/03983694/layer_1.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          8,
+          241,
+          438,
+          1024
+        ]
+      },
+      {
+        "bbox": [
+          518,
+          77,
+          940,
+          1024
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "04145",
+    "full_image": "./RevealLayerBench/04145/full_image.png",
+    "background": "./RevealLayerBench/04145/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/04145/layer_0.png",
+      "./RevealLayerBench/04145/layer_1.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          678,
+          489,
+          942,
+          838
+        ]
+      },
+      {
+        "bbox": [
+          246,
+          552,
+          599,
+          837
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "04765",
+    "full_image": "./RevealLayerBench/04765/full_image.png",
+    "background": "./RevealLayerBench/04765/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/04765/layer_0.png",
+      "./RevealLayerBench/04765/layer_1.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          656,
+          536,
+          949,
+          730
+        ]
+      },
+      {
+        "bbox": [
+          428,
+          575,
+          577,
+          780
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "05544445",
+    "full_image": "./RevealLayerBench/05544445/full_image.png",
+    "background": "./RevealLayerBench/05544445/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/05544445/layer_0.png",
+      "./RevealLayerBench/05544445/layer_1.png",
+      "./RevealLayerBench/05544445/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          82,
+          417,
+          629,
+          888
+        ],
+        "score": 0.8484607338905334
+      },
+      {
+        "bbox": [
+          41,
+          158,
+          548,
+          761
+        ]
+      },
+      {
+        "bbox": [
+          576,
+          226,
+          993,
+          728
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "05795688",
+    "full_image": "./RevealLayerBench/05795688/full_image.png",
+    "background": "./RevealLayerBench/05795688/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/05795688/layer_0.png",
+      "./RevealLayerBench/05795688/layer_1.png",
+      "./RevealLayerBench/05795688/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          78,
+          679,
+          666,
+          996
+        ]
+      },
+      {
+        "bbox": [
+          508,
+          138,
+          869,
+          987
+        ]
+      },
+      {
+        "bbox": [
+          154,
+          129,
+          513,
+          986
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "06399640",
+    "full_image": "./RevealLayerBench/06399640/full_image.png",
+    "background": "./RevealLayerBench/06399640/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/06399640/layer_0.png",
+      "./RevealLayerBench/06399640/layer_1.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          591,
+          425,
+          819,
+          812
+        ]
+      },
+      {
+        "bbox": [
+          393,
+          418,
+          586,
+          800
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "07087643",
+    "full_image": "./RevealLayerBench/07087643/full_image.png",
+    "background": "./RevealLayerBench/07087643/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/07087643/layer_0.png",
+      "./RevealLayerBench/07087643/layer_1.png",
+      "./RevealLayerBench/07087643/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          420,
+          277,
+          620,
+          914
+        ]
+      },
+      {
+        "bbox": [
+          231,
+          250,
+          428,
+          921
+        ]
+      },
+      {
+        "bbox": [
+          607,
+          227,
+          793,
+          912
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "07217007",
+    "full_image": "./RevealLayerBench/07217007/full_image.png",
+    "background": "./RevealLayerBench/07217007/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/07217007/layer_0.png",
+      "./RevealLayerBench/07217007/layer_1.png",
+      "./RevealLayerBench/07217007/layer_2.png",
+      "./RevealLayerBench/07217007/layer_3.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          299,
+          579,
+          684,
+          910
+        ]
+      },
+      {
+        "bbox": [
+          583,
+          484,
+          941,
+          889
+        ]
+      },
+      {
+        "bbox": [
+          99,
+          582,
+          403,
+          897
+        ]
+      },
+      {
+        "bbox": [
+          220,
+          431,
+          642,
+          850
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "07793065",
+    "full_image": "./RevealLayerBench/07793065/full_image.png",
+    "background": "./RevealLayerBench/07793065/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/07793065/layer_0.png",
+      "./RevealLayerBench/07793065/layer_1.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          385,
+          146,
+          669,
+          999
+        ]
+      },
+      {
+        "bbox": [
+          120,
+          202,
+          441,
+          1017
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "07831451",
+    "full_image": "./RevealLayerBench/07831451/full_image.png",
+    "background": "./RevealLayerBench/07831451/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/07831451/layer_0.png",
+      "./RevealLayerBench/07831451/layer_1.png",
+      "./RevealLayerBench/07831451/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          165,
+          483,
+          301,
+          797
+        ],
+        "score": 0.9214877486228943
+      },
+      {
+        "bbox": [
+          591,
+          445,
+          905,
+          754
+        ]
+      },
+      {
+        "bbox": [
+          125,
+          316,
+          570,
+          742
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "07831531",
+    "full_image": "./RevealLayerBench/07831531/full_image.png",
+    "background": "./RevealLayerBench/07831531/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/07831531/layer_0.png",
+      "./RevealLayerBench/07831531/layer_1.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          592,
+          191,
+          936,
+          935
+        ]
+      },
+      {
+        "bbox": [
+          188,
+          223,
+          524,
+          915
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "08767495",
+    "full_image": "./RevealLayerBench/08767495/full_image.png",
+    "background": "./RevealLayerBench/08767495/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/08767495/layer_0.png",
+      "./RevealLayerBench/08767495/layer_1.png",
+      "./RevealLayerBench/08767495/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          23,
+          282,
+          1024,
+          881
+        ]
+      },
+      {
+        "bbox": [
+          43,
+          279,
+          309,
+          784
+        ]
+      },
+      {
+        "bbox": [
+          721,
+          259,
+          986,
+          766
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "09666988",
+    "full_image": "./RevealLayerBench/09666988/full_image.png",
+    "background": "./RevealLayerBench/09666988/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/09666988/layer_0.png",
+      "./RevealLayerBench/09666988/layer_1.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          561,
+          332,
+          995,
+          727
+        ]
+      },
+      {
+        "bbox": [
+          56,
+          349,
+          488,
+          749
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "09745679",
+    "full_image": "./RevealLayerBench/09745679/full_image.png",
+    "background": "./RevealLayerBench/09745679/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/09745679/layer_0.png",
+      "./RevealLayerBench/09745679/layer_1.png",
+      "./RevealLayerBench/09745679/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          62,
+          701,
+          548,
+          915
+        ]
+      },
+      {
+        "bbox": [
+          531,
+          303,
+          973,
+          826
+        ]
+      },
+      {
+        "bbox": [
+          58,
+          310,
+          495,
+          827
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "0_1447",
+    "full_image": "./RevealLayerBench/0_1447/full_image.png",
+    "background": "./RevealLayerBench/0_1447/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/0_1447/layer_0.png",
+      "./RevealLayerBench/0_1447/layer_1.png",
+      "./RevealLayerBench/0_1447/layer_2.png",
+      "./RevealLayerBench/0_1447/layer_3.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          630,
+          411,
+          882,
+          705
+        ]
+      },
+      {
+        "bbox": [
+          608,
+          166,
+          915,
+          691
+        ]
+      },
+      {
+        "bbox": [
+          319,
+          165,
+          628,
+          695
+        ]
+      },
+      {
+        "bbox": [
+          201,
+          506,
+          314,
+          706
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "0_1899",
+    "full_image": "./RevealLayerBench/0_1899/full_image.png",
+    "background": "./RevealLayerBench/0_1899/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/0_1899/layer_0.png",
+      "./RevealLayerBench/0_1899/layer_1.png",
+      "./RevealLayerBench/0_1899/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          299,
+          719,
+          455,
+          889
+        ]
+      },
+      {
+        "bbox": [
+          481,
+          753,
+          728,
+          802
+        ]
+      },
+      {
+        "bbox": [
+          389,
+          734,
+          922,
+          917
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "0_5179",
+    "full_image": "./RevealLayerBench/0_5179/full_image.png",
+    "background": "./RevealLayerBench/0_5179/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/0_5179/layer_0.png",
+      "./RevealLayerBench/0_5179/layer_1.png",
+      "./RevealLayerBench/0_5179/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          481,
+          621,
+          965,
+          744
+        ],
+        "score": 0.9672852754592896
+      },
+      {
+        "bbox": [
+          180,
+          587,
+          516,
+          692
+        ],
+        "score": 0.9491398930549622
+      },
+      {
+        "bbox": [
+          337,
+          510,
+          784,
+          729
+        ],
+        "score": 0.90693598985672
+      }
+    ]
+  },
+  {
+    "imgid": "0_6086",
+    "full_image": "./RevealLayerBench/0_6086/full_image.png",
+    "background": "./RevealLayerBench/0_6086/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/0_6086/layer_0.png",
+      "./RevealLayerBench/0_6086/layer_1.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          198,
+          654,
+          481,
+          904
+        ],
+        "score": 0.9364833831787109
+      },
+      {
+        "bbox": [
+          20,
+          827,
+          583,
+          950
+        ],
+        "score": 0.943717896938324
+      }
+    ]
+  },
+  {
+    "imgid": "0_749",
+    "full_image": "./RevealLayerBench/0_749/full_image.png",
+    "background": "./RevealLayerBench/0_749/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/0_749/layer_0.png",
+      "./RevealLayerBench/0_749/layer_1.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          146,
+          97,
+          548,
+          1024
+        ]
+      },
+      {
+        "bbox": [
+          165,
+          415,
+          1024,
+          1024
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "0_785",
+    "full_image": "./RevealLayerBench/0_785/full_image.png",
+    "background": "./RevealLayerBench/0_785/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/0_785/layer_0.png",
+      "./RevealLayerBench/0_785/layer_1.png",
+      "./RevealLayerBench/0_785/layer_2.png",
+      "./RevealLayerBench/0_785/layer_3.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          727,
+          616,
+          977,
+          752
+        ]
+      },
+      {
+        "bbox": [
+          449,
+          587,
+          889,
+          798
+        ]
+      },
+      {
+        "bbox": [
+          562,
+          465,
+          639,
+          705
+        ]
+      },
+      {
+        "bbox": [
+          253,
+          649,
+          568,
+          741
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "0_8021",
+    "full_image": "./RevealLayerBench/0_8021/full_image.png",
+    "background": "./RevealLayerBench/0_8021/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/0_8021/layer_0.png",
+      "./RevealLayerBench/0_8021/layer_1.png",
+      "./RevealLayerBench/0_8021/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          455,
+          545,
+          874,
+          731
+        ]
+      },
+      {
+        "bbox": [
+          226,
+          442,
+          332,
+          729
+        ]
+      },
+      {
+        "bbox": [
+          200,
+          513,
+          592,
+          703
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "0_867",
+    "full_image": "./RevealLayerBench/0_867/full_image.png",
+    "background": "./RevealLayerBench/0_867/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/0_867/layer_0.png",
+      "./RevealLayerBench/0_867/layer_1.png",
+      "./RevealLayerBench/0_867/layer_2.png",
+      "./RevealLayerBench/0_867/layer_3.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          687,
+          523,
+          929,
+          797
+        ]
+      },
+      {
+        "bbox": [
+          535,
+          358,
+          874,
+          750
+        ]
+      },
+      {
+        "bbox": [
+          469,
+          668,
+          614,
+          752
+        ]
+      },
+      {
+        "bbox": [
+          314,
+          613,
+          450,
+          769
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "10130601",
+    "full_image": "./RevealLayerBench/10130601/full_image.png",
+    "background": "./RevealLayerBench/10130601/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/10130601/layer_0.png",
+      "./RevealLayerBench/10130601/layer_1.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          75,
+          602,
+          624,
+          831
+        ]
+      },
+      {
+        "bbox": [
+          115,
+          52,
+          975,
+          689
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "10142485",
+    "full_image": "./RevealLayerBench/10142485/full_image.png",
+    "background": "./RevealLayerBench/10142485/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/10142485/layer_0.png",
+      "./RevealLayerBench/10142485/layer_1.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          463,
+          68,
+          933,
+          1024
+        ]
+      },
+      {
+        "bbox": [
+          52,
+          143,
+          507,
+          1024
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "10_3478",
+    "full_image": "./RevealLayerBench/10_3478/full_image.png",
+    "background": "./RevealLayerBench/10_3478/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/10_3478/layer_0.png",
+      "./RevealLayerBench/10_3478/layer_1.png",
+      "./RevealLayerBench/10_3478/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          695,
+          657,
+          917,
+          801
+        ],
+        "score": 0.9327327013015747
+      },
+      {
+        "bbox": [
+          636,
+          577,
+          749,
+          740
+        ],
+        "score": 0.9233337640762329
+      },
+      {
+        "bbox": [
+          417,
+          647,
+          999,
+          912
+        ],
+        "score": 0.9299280047416687
+      }
+    ]
+  },
+  {
+    "imgid": "10_7241",
+    "full_image": "./RevealLayerBench/10_7241/full_image.png",
+    "background": "./RevealLayerBench/10_7241/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/10_7241/layer_0.png",
+      "./RevealLayerBench/10_7241/layer_1.png",
+      "./RevealLayerBench/10_7241/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          434,
+          644,
+          800,
+          813
+        ]
+      },
+      {
+        "bbox": [
+          305,
+          400,
+          410,
+          816
+        ]
+      },
+      {
+        "bbox": [
+          139,
+          400,
+          429,
+          788
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "10_7598",
+    "full_image": "./RevealLayerBench/10_7598/full_image.png",
+    "background": "./RevealLayerBench/10_7598/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/10_7598/layer_0.png",
+      "./RevealLayerBench/10_7598/layer_1.png",
+      "./RevealLayerBench/10_7598/layer_2.png",
+      "./RevealLayerBench/10_7598/layer_3.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          670,
+          765,
+          812,
+          928
+        ]
+      },
+      {
+        "bbox": [
+          792,
+          335,
+          926,
+          935
+        ]
+      },
+      {
+        "bbox": [
+          67,
+          743,
+          227,
+          938
+        ]
+      },
+      {
+        "bbox": [
+          133,
+          568,
+          429,
+          936
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "10_7969",
+    "full_image": "./RevealLayerBench/10_7969/full_image.png",
+    "background": "./RevealLayerBench/10_7969/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/10_7969/layer_0.png",
+      "./RevealLayerBench/10_7969/layer_1.png",
+      "./RevealLayerBench/10_7969/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          468,
+          744,
+          685,
+          969
+        ],
+        "score": 0.9259644150733948
+      },
+      {
+        "bbox": [
+          678,
+          747,
+          906,
+          892
+        ],
+        "score": 0.9282978177070618
+      },
+      {
+        "bbox": [
+          590,
+          624,
+          954,
+          983
+        ],
+        "score": 0.9091482162475586
+      }
+    ]
+  },
+  {
+    "imgid": "10_8068",
+    "full_image": "./RevealLayerBench/10_8068/full_image.png",
+    "background": "./RevealLayerBench/10_8068/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/10_8068/layer_0.png",
+      "./RevealLayerBench/10_8068/layer_1.png",
+      "./RevealLayerBench/10_8068/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          307,
+          156,
+          825,
+          898
+        ]
+      },
+      {
+        "bbox": [
+          30,
+          668,
+          428,
+          976
+        ]
+      },
+      {
+        "bbox": [
+          0,
+          778,
+          1024,
+          947
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "11032918",
+    "full_image": "./RevealLayerBench/11032918/full_image.png",
+    "background": "./RevealLayerBench/11032918/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/11032918/layer_0.png",
+      "./RevealLayerBench/11032918/layer_1.png",
+      "./RevealLayerBench/11032918/layer_2.png",
+      "./RevealLayerBench/11032918/layer_3.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          578,
+          459,
+          828,
+          945
+        ]
+      },
+      {
+        "bbox": [
+          141,
+          417,
+          353,
+          886
+        ]
+      },
+      {
+        "bbox": [
+          720,
+          430,
+          945,
+          900
+        ]
+      },
+      {
+        "bbox": [
+          433,
+          408,
+          649,
+          893
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "11739100",
+    "full_image": "./RevealLayerBench/11739100/full_image.png",
+    "background": "./RevealLayerBench/11739100/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/11739100/layer_0.png",
+      "./RevealLayerBench/11739100/layer_1.png",
+      "./RevealLayerBench/11739100/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          188,
+          401,
+          488,
+          704
+        ],
+        "score": 0.9327245354652405
+      },
+      {
+        "bbox": [
+          528,
+          464,
+          877,
+          901
+        ]
+      },
+      {
+        "bbox": [
+          122,
+          268,
+          466,
+          871
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "11_1154",
+    "full_image": "./RevealLayerBench/11_1154/full_image.png",
+    "background": "./RevealLayerBench/11_1154/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/11_1154/layer_0.png",
+      "./RevealLayerBench/11_1154/layer_1.png",
+      "./RevealLayerBench/11_1154/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          524,
+          182,
+          951,
+          738
+        ]
+      },
+      {
+        "bbox": [
+          326,
+          649,
+          397,
+          719
+        ]
+      },
+      {
+        "bbox": [
+          204,
+          657,
+          464,
+          755
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "11_2039",
+    "full_image": "./RevealLayerBench/11_2039/full_image.png",
+    "background": "./RevealLayerBench/11_2039/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/11_2039/layer_0.png",
+      "./RevealLayerBench/11_2039/layer_1.png",
+      "./RevealLayerBench/11_2039/layer_2.png",
+      "./RevealLayerBench/11_2039/layer_3.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          425,
+          842,
+          753,
+          926
+        ]
+      },
+      {
+        "bbox": [
+          647,
+          545,
+          841,
+          876
+        ]
+      },
+      {
+        "bbox": [
+          300,
+          637,
+          550,
+          886
+        ]
+      },
+      {
+        "bbox": [
+          309,
+          836,
+          961,
+          1024
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "11_2198",
+    "full_image": "./RevealLayerBench/11_2198/full_image.png",
+    "background": "./RevealLayerBench/11_2198/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/11_2198/layer_0.png",
+      "./RevealLayerBench/11_2198/layer_1.png",
+      "./RevealLayerBench/11_2198/layer_2.png",
+      "./RevealLayerBench/11_2198/layer_3.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          393,
+          713,
+          626,
+          794
+        ]
+      },
+      {
+        "bbox": [
+          498,
+          571,
+          618,
+          738
+        ]
+      },
+      {
+        "bbox": [
+          575,
+          604,
+          838,
+          782
+        ]
+      },
+      {
+        "bbox": [
+          697,
+          488,
+          990,
+          755
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "11_243",
+    "full_image": "./RevealLayerBench/11_243/full_image.png",
+    "background": "./RevealLayerBench/11_243/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/11_243/layer_0.png",
+      "./RevealLayerBench/11_243/layer_1.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          403,
+          594,
+          587,
+          835
+        ],
+        "score": 0.9676530957221985
+      },
+      {
+        "bbox": [
+          517,
+          385,
+          767,
+          802
+        ],
+        "score": 0.9562013745307922
+      }
+    ]
+  },
+  {
+    "imgid": "11_3001",
+    "full_image": "./RevealLayerBench/11_3001/full_image.png",
+    "background": "./RevealLayerBench/11_3001/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/11_3001/layer_0.png",
+      "./RevealLayerBench/11_3001/layer_1.png",
+      "./RevealLayerBench/11_3001/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          121,
+          193,
+          478,
+          608
+        ]
+      },
+      {
+        "bbox": [
+          519,
+          168,
+          881,
+          583
+        ]
+      },
+      {
+        "bbox": [
+          365,
+          0,
+          643,
+          1024
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "11_4884",
+    "full_image": "./RevealLayerBench/11_4884/full_image.png",
+    "background": "./RevealLayerBench/11_4884/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/11_4884/layer_0.png",
+      "./RevealLayerBench/11_4884/layer_1.png",
+      "./RevealLayerBench/11_4884/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          641,
+          440,
+          1012,
+          880
+        ]
+      },
+      {
+        "bbox": [
+          577,
+          455,
+          852,
+          813
+        ]
+      },
+      {
+        "bbox": [
+          59,
+          162,
+          396,
+          843
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "11_6381",
+    "full_image": "./RevealLayerBench/11_6381/full_image.png",
+    "background": "./RevealLayerBench/11_6381/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/11_6381/layer_0.png",
+      "./RevealLayerBench/11_6381/layer_1.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          194,
+          730,
+          407,
+          929
+        ],
+        "score": 0.9588855504989624
+      },
+      {
+        "bbox": [
+          36,
+          633,
+          612,
+          1024
+        ],
+        "score": 0.8392732739448547
+      }
+    ]
+  },
+  {
+    "imgid": "11_7728",
+    "full_image": "./RevealLayerBench/11_7728/full_image.png",
+    "background": "./RevealLayerBench/11_7728/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/11_7728/layer_0.png",
+      "./RevealLayerBench/11_7728/layer_1.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          461,
+          227,
+          625,
+          806
+        ]
+      },
+      {
+        "bbox": [
+          426,
+          263,
+          1024,
+          844
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "12371645",
+    "full_image": "./RevealLayerBench/12371645/full_image.png",
+    "background": "./RevealLayerBench/12371645/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/12371645/layer_0.png",
+      "./RevealLayerBench/12371645/layer_1.png",
+      "./RevealLayerBench/12371645/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          218,
+          507,
+          875,
+          890
+        ]
+      },
+      {
+        "bbox": [
+          207,
+          369,
+          970,
+          886
+        ]
+      },
+      {
+        "bbox": [
+          23,
+          67,
+          597,
+          404
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "12_2300",
+    "full_image": "./RevealLayerBench/12_2300/full_image.png",
+    "background": "./RevealLayerBench/12_2300/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/12_2300/layer_0.png",
+      "./RevealLayerBench/12_2300/layer_1.png",
+      "./RevealLayerBench/12_2300/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          551,
+          623,
+          656,
+          707
+        ],
+        "score": 0.9525855183601379
+      },
+      {
+        "bbox": [
+          349,
+          655,
+          846,
+          692
+        ],
+        "score": 0.8719336986541748
+      },
+      {
+        "bbox": [
+          191,
+          646,
+          865,
+          839
+        ],
+        "score": 0.9697312712669373
+      }
+    ]
+  },
+  {
+    "imgid": "12_2886",
+    "full_image": "./RevealLayerBench/12_2886/full_image.png",
+    "background": "./RevealLayerBench/12_2886/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/12_2886/layer_0.png",
+      "./RevealLayerBench/12_2886/layer_1.png",
+      "./RevealLayerBench/12_2886/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          240,
+          637,
+          308,
+          701
+        ]
+      },
+      {
+        "bbox": [
+          15,
+          0,
+          359,
+          692
+        ]
+      },
+      {
+        "bbox": [
+          323,
+          520,
+          1024,
+          732
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "12_3524",
+    "full_image": "./RevealLayerBench/12_3524/full_image.png",
+    "background": "./RevealLayerBench/12_3524/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/12_3524/layer_0.png",
+      "./RevealLayerBench/12_3524/layer_1.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          279,
+          160,
+          768,
+          591
+        ],
+        "score": 0.8859918713569641
+      },
+      {
+        "bbox": [
+          333,
+          29,
+          705,
+          725
+        ],
+        "score": 0.9687915444374084
+      }
+    ]
+  },
+  {
+    "imgid": "12_3541",
+    "full_image": "./RevealLayerBench/12_3541/full_image.png",
+    "background": "./RevealLayerBench/12_3541/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/12_3541/layer_0.png",
+      "./RevealLayerBench/12_3541/layer_1.png",
+      "./RevealLayerBench/12_3541/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          697,
+          206,
+          1024,
+          576
+        ]
+      },
+      {
+        "bbox": [
+          253,
+          266,
+          531,
+          532
+        ]
+      },
+      {
+        "bbox": [
+          466,
+          99,
+          870,
+          473
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "12_4071",
+    "full_image": "./RevealLayerBench/12_4071/full_image.png",
+    "background": "./RevealLayerBench/12_4071/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/12_4071/layer_0.png",
+      "./RevealLayerBench/12_4071/layer_1.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          265,
+          605,
+          826,
+          788
+        ],
+        "score": 0.9512240290641785
+      },
+      {
+        "bbox": [
+          182,
+          446,
+          760,
+          678
+        ],
+        "score": 0.9114201068878174
+      }
+    ]
+  },
+  {
+    "imgid": "12_4128",
+    "full_image": "./RevealLayerBench/12_4128/full_image.png",
+    "background": "./RevealLayerBench/12_4128/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/12_4128/layer_0.png",
+      "./RevealLayerBench/12_4128/layer_1.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          322,
+          728,
+          448,
+          897
+        ]
+      },
+      {
+        "bbox": [
+          371,
+          691,
+          598,
+          802
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "12_4914",
+    "full_image": "./RevealLayerBench/12_4914/full_image.png",
+    "background": "./RevealLayerBench/12_4914/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/12_4914/layer_0.png",
+      "./RevealLayerBench/12_4914/layer_1.png",
+      "./RevealLayerBench/12_4914/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          642,
+          730,
+          878,
+          1024
+        ]
+      },
+      {
+        "bbox": [
+          293,
+          900,
+          365,
+          930
+        ]
+      },
+      {
+        "bbox": [
+          142,
+          861,
+          449,
+          942
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "12_5588",
+    "full_image": "./RevealLayerBench/12_5588/full_image.png",
+    "background": "./RevealLayerBench/12_5588/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/12_5588/layer_0.png",
+      "./RevealLayerBench/12_5588/layer_1.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          519,
+          643,
+          701,
+          854
+        ],
+        "score": 0.9725865125656128
+      },
+      {
+        "bbox": [
+          296,
+          493,
+          695,
+          830
+        ],
+        "score": 0.9223536252975464
+      }
+    ]
+  },
+  {
+    "imgid": "12_6058",
+    "full_image": "./RevealLayerBench/12_6058/full_image.png",
+    "background": "./RevealLayerBench/12_6058/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/12_6058/layer_0.png",
+      "./RevealLayerBench/12_6058/layer_1.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          392,
+          127,
+          644,
+          337
+        ],
+        "score": 0.8439989686012268
+      },
+      {
+        "bbox": [
+          341,
+          187,
+          682,
+          404
+        ],
+        "score": 0.9388468265533447
+      }
+    ]
+  },
+  {
+    "imgid": "12_922",
+    "full_image": "./RevealLayerBench/12_922/full_image.png",
+    "background": "./RevealLayerBench/12_922/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/12_922/layer_0.png",
+      "./RevealLayerBench/12_922/layer_1.png",
+      "./RevealLayerBench/12_922/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          600,
+          563,
+          726,
+          834
+        ],
+        "score": 0.8545549511909485
+      },
+      {
+        "bbox": [
+          292,
+          739,
+          426,
+          853
+        ],
+        "score": 0.9365758299827576
+      },
+      {
+        "bbox": [
+          201,
+          770,
+          787,
+          903
+        ],
+        "score": 0.9603425860404968
+      }
+    ]
+  },
+  {
+    "imgid": "13519270",
+    "full_image": "./RevealLayerBench/13519270/full_image.png",
+    "background": "./RevealLayerBench/13519270/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/13519270/layer_0.png",
+      "./RevealLayerBench/13519270/layer_1.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          868,
+          291,
+          971,
+          566
+        ]
+      },
+      {
+        "bbox": [
+          736,
+          261,
+          852,
+          542
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "13801798",
+    "full_image": "./RevealLayerBench/13801798/full_image.png",
+    "background": "./RevealLayerBench/13801798/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/13801798/layer_0.png",
+      "./RevealLayerBench/13801798/layer_1.png",
+      "./RevealLayerBench/13801798/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          0,
+          628,
+          826,
+          798
+        ]
+      },
+      {
+        "bbox": [
+          61,
+          334,
+          644,
+          773
+        ]
+      },
+      {
+        "bbox": [
+          318,
+          277,
+          969,
+          677
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "13_1706",
+    "full_image": "./RevealLayerBench/13_1706/full_image.png",
+    "background": "./RevealLayerBench/13_1706/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/13_1706/layer_0.png",
+      "./RevealLayerBench/13_1706/layer_1.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          512,
+          538,
+          995,
+          1024
+        ]
+      },
+      {
+        "bbox": [
+          249,
+          105,
+          784,
+          1024
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "13_2375",
+    "full_image": "./RevealLayerBench/13_2375/full_image.png",
+    "background": "./RevealLayerBench/13_2375/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/13_2375/layer_0.png",
+      "./RevealLayerBench/13_2375/layer_1.png",
+      "./RevealLayerBench/13_2375/layer_2.png",
+      "./RevealLayerBench/13_2375/layer_3.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          749,
+          606,
+          1006,
+          800
+        ]
+      },
+      {
+        "bbox": [
+          575,
+          326,
+          970,
+          689
+        ]
+      },
+      {
+        "bbox": [
+          73,
+          493,
+          499,
+          752
+        ]
+      },
+      {
+        "bbox": [
+          432,
+          498,
+          971,
+          636
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "13_261",
+    "full_image": "./RevealLayerBench/13_261/full_image.png",
+    "background": "./RevealLayerBench/13_261/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/13_261/layer_0.png",
+      "./RevealLayerBench/13_261/layer_1.png",
+      "./RevealLayerBench/13_261/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          336,
+          593,
+          495,
+          952
+        ]
+      },
+      {
+        "bbox": [
+          241,
+          140,
+          524,
+          874
+        ]
+      },
+      {
+        "bbox": [
+          565,
+          579,
+          780,
+          932
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "13_4465",
+    "full_image": "./RevealLayerBench/13_4465/full_image.png",
+    "background": "./RevealLayerBench/13_4465/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/13_4465/layer_0.png",
+      "./RevealLayerBench/13_4465/layer_1.png",
+      "./RevealLayerBench/13_4465/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          645,
+          761,
+          789,
+          853
+        ],
+        "score": 0.9608132243156433
+      },
+      {
+        "bbox": [
+          632,
+          696,
+          734,
+          810
+        ],
+        "score": 0.9179571866989136
+      },
+      {
+        "bbox": [
+          239,
+          349,
+          681,
+          786
+        ],
+        "score": 0.884731113910675
+      }
+    ]
+  },
+  {
+    "imgid": "14_2530",
+    "full_image": "./RevealLayerBench/14_2530/full_image.png",
+    "background": "./RevealLayerBench/14_2530/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/14_2530/layer_0.png",
+      "./RevealLayerBench/14_2530/layer_1.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          414,
+          346,
+          622,
+          568
+        ],
+        "score": 0.9460229277610779
+      },
+      {
+        "bbox": [
+          294,
+          260,
+          742,
+          784
+        ],
+        "score": 0.902611255645752
+      }
+    ]
+  },
+  {
+    "imgid": "14_271",
+    "full_image": "./RevealLayerBench/14_271/full_image.png",
+    "background": "./RevealLayerBench/14_271/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/14_271/layer_0.png",
+      "./RevealLayerBench/14_271/layer_1.png",
+      "./RevealLayerBench/14_271/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          192,
+          616,
+          843,
+          919
+        ]
+      },
+      {
+        "bbox": [
+          321,
+          424,
+          850,
+          767
+        ]
+      },
+      {
+        "bbox": [
+          113,
+          431,
+          971,
+          871
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "14_4119",
+    "full_image": "./RevealLayerBench/14_4119/full_image.png",
+    "background": "./RevealLayerBench/14_4119/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/14_4119/layer_0.png",
+      "./RevealLayerBench/14_4119/layer_1.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          322,
+          277,
+          590,
+          425
+        ],
+        "score": 0.9731001257896423
+      },
+      {
+        "bbox": [
+          174,
+          379,
+          668,
+          471
+        ],
+        "score": 0.9004382491111755
+      }
+    ]
+  },
+  {
+    "imgid": "14_5306",
+    "full_image": "./RevealLayerBench/14_5306/full_image.png",
+    "background": "./RevealLayerBench/14_5306/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/14_5306/layer_0.png",
+      "./RevealLayerBench/14_5306/layer_1.png",
+      "./RevealLayerBench/14_5306/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          462,
+          536,
+          722,
+          703
+        ],
+        "score": 0.8717082142829895
+      },
+      {
+        "bbox": [
+          128,
+          260,
+          683,
+          641
+        ],
+        "score": 0.953744113445282
+      },
+      {
+        "bbox": [
+          67,
+          373,
+          1024,
+          917
+        ],
+        "score": 0.9278809428215027
+      }
+    ]
+  },
+  {
+    "imgid": "15691527",
+    "full_image": "./RevealLayerBench/15691527/full_image.png",
+    "background": "./RevealLayerBench/15691527/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/15691527/layer_0.png",
+      "./RevealLayerBench/15691527/layer_1.png",
+      "./RevealLayerBench/15691527/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          598,
+          459,
+          860,
+          576
+        ]
+      },
+      {
+        "bbox": [
+          474,
+          0,
+          733,
+          834
+        ]
+      },
+      {
+        "bbox": [
+          239,
+          0,
+          509,
+          746
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "15885938",
+    "full_image": "./RevealLayerBench/15885938/full_image.png",
+    "background": "./RevealLayerBench/15885938/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/15885938/layer_0.png",
+      "./RevealLayerBench/15885938/layer_1.png",
+      "./RevealLayerBench/15885938/layer_2.png",
+      "./RevealLayerBench/15885938/layer_3.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          473,
+          382,
+          811,
+          754
+        ]
+      },
+      {
+        "bbox": [
+          198,
+          681,
+          434,
+          993
+        ]
+      },
+      {
+        "bbox": [
+          412,
+          12,
+          894,
+          436
+        ]
+      },
+      {
+        "bbox": [
+          76,
+          270,
+          507,
+          722
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "15_1287",
+    "full_image": "./RevealLayerBench/15_1287/full_image.png",
+    "background": "./RevealLayerBench/15_1287/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/15_1287/layer_0.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          152,
+          0,
+          385,
+          859
+        ],
+        "score": 0.9554818272590637
+      }
+    ]
+  },
+  {
+    "imgid": "15_1830",
+    "full_image": "./RevealLayerBench/15_1830/full_image.png",
+    "background": "./RevealLayerBench/15_1830/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/15_1830/layer_0.png",
+      "./RevealLayerBench/15_1830/layer_1.png",
+      "./RevealLayerBench/15_1830/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          651,
+          368,
+          827,
+          806
+        ],
+        "score": 0.7877031564712524
+      },
+      {
+        "bbox": [
+          428,
+          515,
+          680,
+          814
+        ],
+        "score": 0.9433555603027344
+      },
+      {
+        "bbox": [
+          203,
+          288,
+          593,
+          685
+        ],
+        "score": 0.958397626876831
+      }
+    ]
+  },
+  {
+    "imgid": "15_4376",
+    "full_image": "./RevealLayerBench/15_4376/full_image.png",
+    "background": "./RevealLayerBench/15_4376/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/15_4376/layer_0.png",
+      "./RevealLayerBench/15_4376/layer_1.png",
+      "./RevealLayerBench/15_4376/layer_2.png",
+      "./RevealLayerBench/15_4376/layer_3.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          644,
+          414,
+          933,
+          633
+        ]
+      },
+      {
+        "bbox": [
+          501,
+          19,
+          897,
+          532
+        ]
+      },
+      {
+        "bbox": [
+          116,
+          227,
+          479,
+          610
+        ]
+      },
+      {
+        "bbox": [
+          300,
+          353,
+          534,
+          514
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "15_5996",
+    "full_image": "./RevealLayerBench/15_5996/full_image.png",
+    "background": "./RevealLayerBench/15_5996/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/15_5996/layer_0.png",
+      "./RevealLayerBench/15_5996/layer_1.png",
+      "./RevealLayerBench/15_5996/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          585,
+          477,
+          623,
+          623
+        ],
+        "score": 0.8462857007980347
+      },
+      {
+        "bbox": [
+          770,
+          533,
+          880,
+          691
+        ],
+        "score": 0.8522627353668213
+      },
+      {
+        "bbox": [
+          588,
+          376,
+          884,
+          632
+        ],
+        "score": 0.9359422326087952
+      }
+    ]
+  },
+  {
+    "imgid": "15_7385",
+    "full_image": "./RevealLayerBench/15_7385/full_image.png",
+    "background": "./RevealLayerBench/15_7385/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/15_7385/layer_0.png",
+      "./RevealLayerBench/15_7385/layer_1.png",
+      "./RevealLayerBench/15_7385/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          697,
+          373,
+          909,
+          790
+        ],
+        "score": 0.9762266874313354
+      },
+      {
+        "bbox": [
+          682,
+          105,
+          792,
+          632
+        ],
+        "score": 0.8251572847366333
+      },
+      {
+        "bbox": [
+          419,
+          114,
+          847,
+          381
+        ],
+        "score": 0.9546138644218445
+      }
+    ]
+  },
+  {
+    "imgid": "16149792",
+    "full_image": "./RevealLayerBench/16149792/full_image.png",
+    "background": "./RevealLayerBench/16149792/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/16149792/layer_0.png",
+      "./RevealLayerBench/16149792/layer_1.png",
+      "./RevealLayerBench/16149792/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          621,
+          213,
+          860,
+          934
+        ]
+      },
+      {
+        "bbox": [
+          98,
+          182,
+          314,
+          930
+        ]
+      },
+      {
+        "bbox": [
+          334,
+          165,
+          584,
+          928
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "16153546",
+    "full_image": "./RevealLayerBench/16153546/full_image.png",
+    "background": "./RevealLayerBench/16153546/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/16153546/layer_0.png",
+      "./RevealLayerBench/16153546/layer_1.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          42,
+          96,
+          479,
+          1024
+        ]
+      },
+      {
+        "bbox": [
+          399,
+          123,
+          877,
+          1024
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "16578979",
+    "full_image": "./RevealLayerBench/16578979/full_image.png",
+    "background": "./RevealLayerBench/16578979/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/16578979/layer_0.png",
+      "./RevealLayerBench/16578979/layer_1.png",
+      "./RevealLayerBench/16578979/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          526,
+          561,
+          835,
+          964
+        ],
+        "score": 0.9561289548873901
+      },
+      {
+        "bbox": [
+          117,
+          466,
+          556,
+          935
+        ]
+      },
+      {
+        "bbox": [
+          451,
+          128,
+          912,
+          822
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "16893990",
+    "full_image": "./RevealLayerBench/16893990/full_image.png",
+    "background": "./RevealLayerBench/16893990/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/16893990/layer_0.png",
+      "./RevealLayerBench/16893990/layer_1.png",
+      "./RevealLayerBench/16893990/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          309,
+          761,
+          496,
+          861
+        ],
+        "score": 0.9535671472549438
+      },
+      {
+        "bbox": [
+          558,
+          337,
+          883,
+          856
+        ]
+      },
+      {
+        "bbox": [
+          179,
+          337,
+          505,
+          829
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "17350652",
+    "full_image": "./RevealLayerBench/17350652/full_image.png",
+    "background": "./RevealLayerBench/17350652/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/17350652/layer_0.png",
+      "./RevealLayerBench/17350652/layer_1.png",
+      "./RevealLayerBench/17350652/layer_2.png",
+      "./RevealLayerBench/17350652/layer_3.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          626,
+          534,
+          901,
+          944
+        ],
+        "score": 0.9408978223800659
+      },
+      {
+        "bbox": [
+          757,
+          539,
+          994,
+          919
+        ]
+      },
+      {
+        "bbox": [
+          326,
+          492,
+          758,
+          925
+        ]
+      },
+      {
+        "bbox": [
+          60,
+          193,
+          309,
+          919
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "17748903",
+    "full_image": "./RevealLayerBench/17748903/full_image.png",
+    "background": "./RevealLayerBench/17748903/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/17748903/layer_0.png",
+      "./RevealLayerBench/17748903/layer_1.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          83,
+          179,
+          546,
+          968
+        ]
+      },
+      {
+        "bbox": [
+          395,
+          42,
+          950,
+          928
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "18051271",
+    "full_image": "./RevealLayerBench/18051271/full_image.png",
+    "background": "./RevealLayerBench/18051271/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/18051271/layer_0.png",
+      "./RevealLayerBench/18051271/layer_1.png",
+      "./RevealLayerBench/18051271/layer_2.png",
+      "./RevealLayerBench/18051271/layer_3.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          366,
+          614,
+          684,
+          861
+        ]
+      },
+      {
+        "bbox": [
+          603,
+          332,
+          977,
+          827
+        ]
+      },
+      {
+        "bbox": [
+          426,
+          301,
+          769,
+          752
+        ]
+      },
+      {
+        "bbox": [
+          44,
+          345,
+          418,
+          845
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "18712486",
+    "full_image": "./RevealLayerBench/18712486/full_image.png",
+    "background": "./RevealLayerBench/18712486/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/18712486/layer_0.png",
+      "./RevealLayerBench/18712486/layer_1.png",
+      "./RevealLayerBench/18712486/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          509,
+          322,
+          984,
+          844
+        ]
+      },
+      {
+        "bbox": [
+          341,
+          500,
+          604,
+          762
+        ]
+      },
+      {
+        "bbox": [
+          12,
+          310,
+          370,
+          730
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "1_01991420",
+    "full_image": "./RevealLayerBench/1_01991420/full_image.png",
+    "background": "./RevealLayerBench/1_01991420/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/1_01991420/layer_0.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          219,
+          255,
+          802,
+          985
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "1_03166004",
+    "full_image": "./RevealLayerBench/1_03166004/full_image.png",
+    "background": "./RevealLayerBench/1_03166004/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/1_03166004/layer_0.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          259,
+          437,
+          951,
+          864
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "1_08305607",
+    "full_image": "./RevealLayerBench/1_08305607/full_image.png",
+    "background": "./RevealLayerBench/1_08305607/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/1_08305607/layer_0.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          126,
+          335,
+          770,
+          992
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "1_1072",
+    "full_image": "./RevealLayerBench/1_1072/full_image.png",
+    "background": "./RevealLayerBench/1_1072/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/1_1072/layer_0.png",
+      "./RevealLayerBench/1_1072/layer_1.png",
+      "./RevealLayerBench/1_1072/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          367,
+          606,
+          602,
+          845
+        ],
+        "score": 0.9002171754837036
+      },
+      {
+        "bbox": [
+          325,
+          464,
+          626,
+          771
+        ],
+        "score": 0.8879595994949341
+      },
+      {
+        "bbox": [
+          41,
+          526,
+          515,
+          766
+        ],
+        "score": 0.8996937274932861
+      }
+    ]
+  },
+  {
+    "imgid": "1_2122",
+    "full_image": "./RevealLayerBench/1_2122/full_image.png",
+    "background": "./RevealLayerBench/1_2122/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/1_2122/layer_0.png",
+      "./RevealLayerBench/1_2122/layer_1.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          479,
+          470,
+          743,
+          899
+        ],
+        "score": 0.9357017874717712
+      },
+      {
+        "bbox": [
+          101,
+          696,
+          917,
+          881
+        ],
+        "score": 0.9544897079467773
+      }
+    ]
+  },
+  {
+    "imgid": "1_399",
+    "full_image": "./RevealLayerBench/1_399/full_image.png",
+    "background": "./RevealLayerBench/1_399/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/1_399/layer_0.png",
+      "./RevealLayerBench/1_399/layer_1.png",
+      "./RevealLayerBench/1_399/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          649,
+          530,
+          793,
+          696
+        ]
+      },
+      {
+        "bbox": [
+          129,
+          626,
+          379,
+          777
+        ]
+      },
+      {
+        "bbox": [
+          110,
+          512,
+          611,
+          765
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "1_533",
+    "full_image": "./RevealLayerBench/1_533/full_image.png",
+    "background": "./RevealLayerBench/1_533/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/1_533/layer_0.png",
+      "./RevealLayerBench/1_533/layer_1.png",
+      "./RevealLayerBench/1_533/layer_2.png",
+      "./RevealLayerBench/1_533/layer_3.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          489,
+          672,
+          691,
+          819
+        ],
+        "score": 0.8755776286125183
+      },
+      {
+        "bbox": [
+          465,
+          264,
+          582,
+          599
+        ],
+        "score": 0.9041886329650879
+      },
+      {
+        "bbox": [
+          428,
+          676,
+          548,
+          763
+        ],
+        "score": 0.9420278072357178
+      },
+      {
+        "bbox": [
+          325,
+          680,
+          792,
+          866
+        ],
+        "score": 0.921890139579773
+      }
+    ]
+  },
+  {
+    "imgid": "1_6957",
+    "full_image": "./RevealLayerBench/1_6957/full_image.png",
+    "background": "./RevealLayerBench/1_6957/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/1_6957/layer_0.png",
+      "./RevealLayerBench/1_6957/layer_1.png",
+      "./RevealLayerBench/1_6957/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          397,
+          455,
+          1024,
+          971
+        ]
+      },
+      {
+        "bbox": [
+          104,
+          346,
+          405,
+          637
+        ]
+      },
+      {
+        "bbox": [
+          0,
+          362,
+          937,
+          493
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "1_7141",
+    "full_image": "./RevealLayerBench/1_7141/full_image.png",
+    "background": "./RevealLayerBench/1_7141/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/1_7141/layer_0.png",
+      "./RevealLayerBench/1_7141/layer_1.png",
+      "./RevealLayerBench/1_7141/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          562,
+          341,
+          769,
+          1024
+        ]
+      },
+      {
+        "bbox": [
+          239,
+          295,
+          445,
+          1024
+        ]
+      },
+      {
+        "bbox": [
+          0,
+          0,
+          542,
+          1024
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "1_7429",
+    "full_image": "./RevealLayerBench/1_7429/full_image.png",
+    "background": "./RevealLayerBench/1_7429/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/1_7429/layer_0.png",
+      "./RevealLayerBench/1_7429/layer_1.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          292,
+          286,
+          709,
+          573
+        ],
+        "score": 0.9187308549880981
+      },
+      {
+        "bbox": [
+          155,
+          327,
+          863,
+          725
+        ],
+        "score": 0.8804764747619629
+      }
+    ]
+  },
+  {
+    "imgid": "2_00106249",
+    "full_image": "./RevealLayerBench/2_00106249/full_image.png",
+    "background": "./RevealLayerBench/2_00106249/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/2_00106249/layer_0.png",
+      "./RevealLayerBench/2_00106249/layer_1.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          333,
+          272,
+          500,
+          876
+        ]
+      },
+      {
+        "bbox": [
+          106,
+          283,
+          288,
+          883
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "2_00496286",
+    "full_image": "./RevealLayerBench/2_00496286/full_image.png",
+    "background": "./RevealLayerBench/2_00496286/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/2_00496286/layer_0.png",
+      "./RevealLayerBench/2_00496286/layer_1.png",
+      "./RevealLayerBench/2_00496286/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          398,
+          170,
+          762,
+          370
+        ],
+        "score": 0.9586742520332336
+      },
+      {
+        "bbox": [
+          518,
+          487,
+          775,
+          941
+        ]
+      },
+      {
+        "bbox": [
+          42,
+          200,
+          703,
+          641
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "2_01980673",
+    "full_image": "./RevealLayerBench/2_01980673/full_image.png",
+    "background": "./RevealLayerBench/2_01980673/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/2_01980673/layer_0.png",
+      "./RevealLayerBench/2_01980673/layer_1.png",
+      "./RevealLayerBench/2_01980673/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          320,
+          124,
+          1004,
+          583
+        ],
+        "score": 0.9510384798049927
+      },
+      {
+        "bbox": [
+          0,
+          60,
+          465,
+          1024
+        ]
+      },
+      {
+        "bbox": [
+          407,
+          70,
+          993,
+          1024
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "2_02127364",
+    "full_image": "./RevealLayerBench/2_02127364/full_image.png",
+    "background": "./RevealLayerBench/2_02127364/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/2_02127364/layer_0.png",
+      "./RevealLayerBench/2_02127364/layer_1.png",
+      "./RevealLayerBench/2_02127364/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          567,
+          330,
+          869,
+          637
+        ],
+        "score": 0.9655483961105347
+      },
+      {
+        "bbox": [
+          104,
+          86,
+          828,
+          516
+        ]
+      },
+      {
+        "bbox": [
+          102,
+          551,
+          880,
+          990
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "2_02276585",
+    "full_image": "./RevealLayerBench/2_02276585/full_image.png",
+    "background": "./RevealLayerBench/2_02276585/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/2_02276585/layer_0.png",
+      "./RevealLayerBench/2_02276585/layer_1.png",
+      "./RevealLayerBench/2_02276585/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          319,
+          53,
+          914,
+          437
+        ]
+      },
+      {
+        "bbox": [
+          133,
+          357,
+          486,
+          1024
+        ]
+      },
+      {
+        "bbox": [
+          570,
+          192,
+          963,
+          1024
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "2_02500894",
+    "full_image": "./RevealLayerBench/2_02500894/full_image.png",
+    "background": "./RevealLayerBench/2_02500894/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/2_02500894/layer_0.png",
+      "./RevealLayerBench/2_02500894/layer_1.png",
+      "./RevealLayerBench/2_02500894/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          776,
+          398,
+          865,
+          570
+        ],
+        "score": 0.966397225856781
+      },
+      {
+        "bbox": [
+          590,
+          2,
+          943,
+          455
+        ]
+      },
+      {
+        "bbox": [
+          163,
+          0,
+          522,
+          852
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "2_02875141",
+    "full_image": "./RevealLayerBench/2_02875141/full_image.png",
+    "background": "./RevealLayerBench/2_02875141/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/2_02875141/layer_0.png",
+      "./RevealLayerBench/2_02875141/layer_1.png",
+      "./RevealLayerBench/2_02875141/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          329,
+          762,
+          698,
+          948
+        ]
+      },
+      {
+        "bbox": [
+          82,
+          304,
+          453,
+          894
+        ]
+      },
+      {
+        "bbox": [
+          509,
+          117,
+          964,
+          837
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "2_03223820",
+    "full_image": "./RevealLayerBench/2_03223820/full_image.png",
+    "background": "./RevealLayerBench/2_03223820/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/2_03223820/layer_0.png",
+      "./RevealLayerBench/2_03223820/layer_1.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          570,
+          98,
+          1024,
+          1024
+        ]
+      },
+      {
+        "bbox": [
+          0,
+          178,
+          417,
+          1024
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "2_03379081",
+    "full_image": "./RevealLayerBench/2_03379081/full_image.png",
+    "background": "./RevealLayerBench/2_03379081/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/2_03379081/layer_0.png",
+      "./RevealLayerBench/2_03379081/layer_1.png",
+      "./RevealLayerBench/2_03379081/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          357,
+          536,
+          876,
+          808
+        ],
+        "score": 0.9730477333068848
+      },
+      {
+        "bbox": [
+          539,
+          198,
+          816,
+          934
+        ]
+      },
+      {
+        "bbox": [
+          226,
+          197,
+          493,
+          935
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "2_03529759",
+    "full_image": "./RevealLayerBench/2_03529759/full_image.png",
+    "background": "./RevealLayerBench/2_03529759/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/2_03529759/layer_0.png",
+      "./RevealLayerBench/2_03529759/layer_1.png",
+      "./RevealLayerBench/2_03529759/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          372,
+          654,
+          545,
+          857
+        ]
+      },
+      {
+        "bbox": [
+          12,
+          207,
+          657,
+          773
+        ]
+      },
+      {
+        "bbox": [
+          549,
+          403,
+          961,
+          771
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "2_09536085",
+    "full_image": "./RevealLayerBench/2_09536085/full_image.png",
+    "background": "./RevealLayerBench/2_09536085/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/2_09536085/layer_0.png",
+      "./RevealLayerBench/2_09536085/layer_1.png",
+      "./RevealLayerBench/2_09536085/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          279,
+          619,
+          640,
+          897
+        ],
+        "score": 0.9770289063453674
+      },
+      {
+        "bbox": [
+          547,
+          345,
+          965,
+          723
+        ]
+      },
+      {
+        "bbox": [
+          108,
+          353,
+          525,
+          729
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "2_10811646",
+    "full_image": "./RevealLayerBench/2_10811646/full_image.png",
+    "background": "./RevealLayerBench/2_10811646/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/2_10811646/layer_0.png",
+      "./RevealLayerBench/2_10811646/layer_1.png",
+      "./RevealLayerBench/2_10811646/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          441,
+          593,
+          1024,
+          1024
+        ],
+        "score": 0.9017698168754578
+      },
+      {
+        "bbox": [
+          82,
+          411,
+          558,
+          984
+        ]
+      },
+      {
+        "bbox": [
+          403,
+          99,
+          861,
+          657
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "2_11999817",
+    "full_image": "./RevealLayerBench/2_11999817/full_image.png",
+    "background": "./RevealLayerBench/2_11999817/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/2_11999817/layer_0.png",
+      "./RevealLayerBench/2_11999817/layer_1.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          50,
+          623,
+          200,
+          875
+        ]
+      },
+      {
+        "bbox": [
+          531,
+          86,
+          691,
+          707
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "2_13931919",
+    "full_image": "./RevealLayerBench/2_13931919/full_image.png",
+    "background": "./RevealLayerBench/2_13931919/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/2_13931919/layer_0.png",
+      "./RevealLayerBench/2_13931919/layer_1.png",
+      "./RevealLayerBench/2_13931919/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          92,
+          707,
+          360,
+          903
+        ]
+      },
+      {
+        "bbox": [
+          76,
+          82,
+          601,
+          944
+        ]
+      },
+      {
+        "bbox": [
+          436,
+          82,
+          959,
+          947
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "2_13949378",
+    "full_image": "./RevealLayerBench/2_13949378/full_image.png",
+    "background": "./RevealLayerBench/2_13949378/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/2_13949378/layer_0.png",
+      "./RevealLayerBench/2_13949378/layer_1.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          529,
+          705,
+          921,
+          948
+        ]
+      },
+      {
+        "bbox": [
+          231,
+          34,
+          765,
+          716
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "2_14092986",
+    "full_image": "./RevealLayerBench/2_14092986/full_image.png",
+    "background": "./RevealLayerBench/2_14092986/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/2_14092986/layer_0.png",
+      "./RevealLayerBench/2_14092986/layer_1.png",
+      "./RevealLayerBench/2_14092986/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          204,
+          646,
+          693,
+          913
+        ]
+      },
+      {
+        "bbox": [
+          107,
+          283,
+          539,
+          751
+        ]
+      },
+      {
+        "bbox": [
+          476,
+          241,
+          939,
+          700
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "2_14371763",
+    "full_image": "./RevealLayerBench/2_14371763/full_image.png",
+    "background": "./RevealLayerBench/2_14371763/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/2_14371763/layer_0.png",
+      "./RevealLayerBench/2_14371763/layer_1.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          666,
+          746,
+          806,
+          949
+        ]
+      },
+      {
+        "bbox": [
+          381,
+          223,
+          622,
+          956
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "2_15505801",
+    "full_image": "./RevealLayerBench/2_15505801/full_image.png",
+    "background": "./RevealLayerBench/2_15505801/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/2_15505801/layer_0.png",
+      "./RevealLayerBench/2_15505801/layer_1.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          440,
+          476,
+          654,
+          877
+        ]
+      },
+      {
+        "bbox": [
+          280,
+          37,
+          517,
+          786
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "2_15950770",
+    "full_image": "./RevealLayerBench/2_15950770/full_image.png",
+    "background": "./RevealLayerBench/2_15950770/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/2_15950770/layer_0.png",
+      "./RevealLayerBench/2_15950770/layer_1.png",
+      "./RevealLayerBench/2_15950770/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          129,
+          710,
+          420,
+          922
+        ],
+        "score": 0.9487744569778442
+      },
+      {
+        "bbox": [
+          492,
+          271,
+          901,
+          961
+        ]
+      },
+      {
+        "bbox": [
+          112,
+          288,
+          453,
+          847
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "2_16244920",
+    "full_image": "./RevealLayerBench/2_16244920/full_image.png",
+    "background": "./RevealLayerBench/2_16244920/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/2_16244920/layer_0.png",
+      "./RevealLayerBench/2_16244920/layer_1.png",
+      "./RevealLayerBench/2_16244920/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          339,
+          649,
+          664,
+          1003
+        ],
+        "score": 0.9409257173538208
+      },
+      {
+        "bbox": [
+          512,
+          108,
+          827,
+          952
+        ]
+      },
+      {
+        "bbox": [
+          173,
+          119,
+          516,
+          957
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "2_16257194",
+    "full_image": "./RevealLayerBench/2_16257194/full_image.png",
+    "background": "./RevealLayerBench/2_16257194/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/2_16257194/layer_0.png",
+      "./RevealLayerBench/2_16257194/layer_1.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          189,
+          182,
+          856,
+          1024
+        ]
+      },
+      {
+        "bbox": [
+          81,
+          292,
+          349,
+          845
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "2_16929267",
+    "full_image": "./RevealLayerBench/2_16929267/full_image.png",
+    "background": "./RevealLayerBench/2_16929267/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/2_16929267/layer_0.png",
+      "./RevealLayerBench/2_16929267/layer_1.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          462,
+          689,
+          664,
+          940
+        ]
+      },
+      {
+        "bbox": [
+          184,
+          309,
+          405,
+          925
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "2_17556786",
+    "full_image": "./RevealLayerBench/2_17556786/full_image.png",
+    "background": "./RevealLayerBench/2_17556786/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/2_17556786/layer_0.png",
+      "./RevealLayerBench/2_17556786/layer_1.png",
+      "./RevealLayerBench/2_17556786/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          184,
+          736,
+          337,
+          885
+        ],
+        "score": 0.9518243670463562
+      },
+      {
+        "bbox": [
+          73,
+          320,
+          761,
+          851
+        ]
+      },
+      {
+        "bbox": [
+          518,
+          229,
+          891,
+          720
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "2_17765825",
+    "full_image": "./RevealLayerBench/2_17765825/full_image.png",
+    "background": "./RevealLayerBench/2_17765825/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/2_17765825/layer_0.png",
+      "./RevealLayerBench/2_17765825/layer_1.png",
+      "./RevealLayerBench/2_17765825/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          419,
+          415,
+          932,
+          1015
+        ],
+        "score": 0.9615563750267029
+      },
+      {
+        "bbox": [
+          34,
+          314,
+          521,
+          929
+        ]
+      },
+      {
+        "bbox": [
+          483,
+          48,
+          967,
+          695
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "2_17825608",
+    "full_image": "./RevealLayerBench/2_17825608/full_image.png",
+    "background": "./RevealLayerBench/2_17825608/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/2_17825608/layer_0.png",
+      "./RevealLayerBench/2_17825608/layer_1.png",
+      "./RevealLayerBench/2_17825608/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          254,
+          733,
+          468,
+          956
+        ]
+      },
+      {
+        "bbox": [
+          50,
+          366,
+          464,
+          959
+        ]
+      },
+      {
+        "bbox": [
+          529,
+          350,
+          953,
+          891
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "2_18167090",
+    "full_image": "./RevealLayerBench/2_18167090/full_image.png",
+    "background": "./RevealLayerBench/2_18167090/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/2_18167090/layer_0.png",
+      "./RevealLayerBench/2_18167090/layer_1.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          544,
+          71,
+          950,
+          912
+        ]
+      },
+      {
+        "bbox": [
+          489,
+          433,
+          765,
+          944
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "2_18769383",
+    "full_image": "./RevealLayerBench/2_18769383/full_image.png",
+    "background": "./RevealLayerBench/2_18769383/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/2_18769383/layer_0.png",
+      "./RevealLayerBench/2_18769383/layer_1.png",
+      "./RevealLayerBench/2_18769383/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          268,
+          395,
+          772,
+          917
+        ],
+        "score": 0.9585835337638855
+      },
+      {
+        "bbox": [
+          374,
+          368,
+          1024,
+          868
+        ]
+      },
+      {
+        "bbox": [
+          7,
+          190,
+          431,
+          845
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "2_2589",
+    "full_image": "./RevealLayerBench/2_2589/full_image.png",
+    "background": "./RevealLayerBench/2_2589/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/2_2589/layer_0.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          77,
+          341,
+          781,
+          694
+        ],
+        "score": 0.9258593320846558
+      }
+    ]
+  },
+  {
+    "imgid": "2_3493",
+    "full_image": "./RevealLayerBench/2_3493/full_image.png",
+    "background": "./RevealLayerBench/2_3493/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/2_3493/layer_0.png",
+      "./RevealLayerBench/2_3493/layer_1.png",
+      "./RevealLayerBench/2_3493/layer_2.png",
+      "./RevealLayerBench/2_3493/layer_3.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          521,
+          614,
+          796,
+          788
+        ]
+      },
+      {
+        "bbox": [
+          675,
+          529,
+          945,
+          772
+        ]
+      },
+      {
+        "bbox": [
+          213,
+          709,
+          398,
+          799
+        ]
+      },
+      {
+        "bbox": [
+          0,
+          333,
+          318,
+          764
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "2_3780",
+    "full_image": "./RevealLayerBench/2_3780/full_image.png",
+    "background": "./RevealLayerBench/2_3780/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/2_3780/layer_0.png",
+      "./RevealLayerBench/2_3780/layer_1.png",
+      "./RevealLayerBench/2_3780/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          268,
+          467,
+          737,
+          688
+        ],
+        "score": 0.9609976410865784
+      },
+      {
+        "bbox": [
+          0,
+          590,
+          1024,
+          749
+        ],
+        "score": 0.9530122876167297
+      },
+      {
+        "bbox": [
+          151,
+          297,
+          873,
+          582
+        ],
+        "score": 0.9276136755943298
+      }
+    ]
+  },
+  {
+    "imgid": "2_6968",
+    "full_image": "./RevealLayerBench/2_6968/full_image.png",
+    "background": "./RevealLayerBench/2_6968/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/2_6968/layer_0.png",
+      "./RevealLayerBench/2_6968/layer_1.png",
+      "./RevealLayerBench/2_6968/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          184,
+          612,
+          379,
+          740
+        ]
+      },
+      {
+        "bbox": [
+          58,
+          493,
+          362,
+          687
+        ]
+      },
+      {
+        "bbox": [
+          339,
+          386,
+          887,
+          774
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "2_7008",
+    "full_image": "./RevealLayerBench/2_7008/full_image.png",
+    "background": "./RevealLayerBench/2_7008/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/2_7008/layer_0.png",
+      "./RevealLayerBench/2_7008/layer_1.png",
+      "./RevealLayerBench/2_7008/layer_2.png",
+      "./RevealLayerBench/2_7008/layer_3.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          624,
+          456,
+          902,
+          732
+        ]
+      },
+      {
+        "bbox": [
+          551,
+          461,
+          1016,
+          650
+        ]
+      },
+      {
+        "bbox": [
+          190,
+          653,
+          568,
+          787
+        ]
+      },
+      {
+        "bbox": [
+          0,
+          196,
+          225,
+          792
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "2_7756",
+    "full_image": "./RevealLayerBench/2_7756/full_image.png",
+    "background": "./RevealLayerBench/2_7756/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/2_7756/layer_0.png",
+      "./RevealLayerBench/2_7756/layer_1.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          183,
+          268,
+          835,
+          601
+        ]
+      },
+      {
+        "bbox": [
+          98,
+          435,
+          919,
+          889
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "3_00031169",
+    "full_image": "./RevealLayerBench/3_00031169/full_image.png",
+    "background": "./RevealLayerBench/3_00031169/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/3_00031169/layer_0.png",
+      "./RevealLayerBench/3_00031169/layer_1.png",
+      "./RevealLayerBench/3_00031169/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          400,
+          419,
+          648,
+          632
+        ]
+      },
+      {
+        "bbox": [
+          104,
+          382,
+          352,
+          602
+        ]
+      },
+      {
+        "bbox": [
+          703,
+          390,
+          953,
+          609
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "3_00107567",
+    "full_image": "./RevealLayerBench/3_00107567/full_image.png",
+    "background": "./RevealLayerBench/3_00107567/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/3_00107567/layer_0.png",
+      "./RevealLayerBench/3_00107567/layer_1.png",
+      "./RevealLayerBench/3_00107567/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          503,
+          404,
+          753,
+          695
+        ]
+      },
+      {
+        "bbox": [
+          244,
+          292,
+          462,
+          519
+        ]
+      },
+      {
+        "bbox": [
+          137,
+          185,
+          884,
+          824
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "3_00136573",
+    "full_image": "./RevealLayerBench/3_00136573/full_image.png",
+    "background": "./RevealLayerBench/3_00136573/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/3_00136573/layer_0.png",
+      "./RevealLayerBench/3_00136573/layer_1.png",
+      "./RevealLayerBench/3_00136573/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          172,
+          342,
+          417,
+          798
+        ]
+      },
+      {
+        "bbox": [
+          645,
+          219,
+          939,
+          718
+        ]
+      },
+      {
+        "bbox": [
+          242,
+          122,
+          863,
+          921
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "3_00778545",
+    "full_image": "./RevealLayerBench/3_00778545/full_image.png",
+    "background": "./RevealLayerBench/3_00778545/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/3_00778545/layer_0.png",
+      "./RevealLayerBench/3_00778545/layer_1.png",
+      "./RevealLayerBench/3_00778545/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          285,
+          341,
+          446,
+          611
+        ]
+      },
+      {
+        "bbox": [
+          542,
+          335,
+          708,
+          612
+        ]
+      },
+      {
+        "bbox": [
+          135,
+          41,
+          446,
+          612
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "3_01925526",
+    "full_image": "./RevealLayerBench/3_01925526/full_image.png",
+    "background": "./RevealLayerBench/3_01925526/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/3_01925526/layer_0.png",
+      "./RevealLayerBench/3_01925526/layer_1.png",
+      "./RevealLayerBench/3_01925526/layer_2.png",
+      "./RevealLayerBench/3_01925526/layer_3.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          391,
+          643,
+          636,
+          890
+        ],
+        "score": 0.7430371046066284
+      },
+      {
+        "bbox": [
+          563,
+          453,
+          999,
+          812
+        ]
+      },
+      {
+        "bbox": [
+          420,
+          255,
+          583,
+          708
+        ]
+      },
+      {
+        "bbox": [
+          0,
+          406,
+          413,
+          801
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "3_02681710",
+    "full_image": "./RevealLayerBench/3_02681710/full_image.png",
+    "background": "./RevealLayerBench/3_02681710/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/3_02681710/layer_0.png",
+      "./RevealLayerBench/3_02681710/layer_1.png",
+      "./RevealLayerBench/3_02681710/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          307,
+          345,
+          732,
+          973
+        ]
+      },
+      {
+        "bbox": [
+          553,
+          292,
+          949,
+          807
+        ]
+      },
+      {
+        "bbox": [
+          125,
+          252,
+          447,
+          724
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "3_03346942",
+    "full_image": "./RevealLayerBench/3_03346942/full_image.png",
+    "background": "./RevealLayerBench/3_03346942/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/3_03346942/layer_0.png",
+      "./RevealLayerBench/3_03346942/layer_1.png",
+      "./RevealLayerBench/3_03346942/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          61,
+          121,
+          256,
+          817
+        ]
+      },
+      {
+        "bbox": [
+          273,
+          120,
+          469,
+          815
+        ]
+      },
+      {
+        "bbox": [
+          516,
+          129,
+          710,
+          817
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "3_04594024",
+    "full_image": "./RevealLayerBench/3_04594024/full_image.png",
+    "background": "./RevealLayerBench/3_04594024/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/3_04594024/layer_0.png",
+      "./RevealLayerBench/3_04594024/layer_1.png",
+      "./RevealLayerBench/3_04594024/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          630,
+          398,
+          929,
+          958
+        ]
+      },
+      {
+        "bbox": [
+          239,
+          20,
+          686,
+          898
+        ]
+      },
+      {
+        "bbox": [
+          78,
+          258,
+          345,
+          744
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "3_04627474",
+    "full_image": "./RevealLayerBench/3_04627474/full_image.png",
+    "background": "./RevealLayerBench/3_04627474/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/3_04627474/layer_0.png",
+      "./RevealLayerBench/3_04627474/layer_1.png",
+      "./RevealLayerBench/3_04627474/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          84,
+          314,
+          443,
+          756
+        ]
+      },
+      {
+        "bbox": [
+          547,
+          207,
+          832,
+          587
+        ]
+      },
+      {
+        "bbox": [
+          395,
+          144,
+          951,
+          919
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "3_05686679",
+    "full_image": "./RevealLayerBench/3_05686679/full_image.png",
+    "background": "./RevealLayerBench/3_05686679/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/3_05686679/layer_0.png",
+      "./RevealLayerBench/3_05686679/layer_1.png",
+      "./RevealLayerBench/3_05686679/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          337,
+          172,
+          672,
+          1024
+        ]
+      },
+      {
+        "bbox": [
+          628,
+          280,
+          1013,
+          1024
+        ]
+      },
+      {
+        "bbox": [
+          35,
+          125,
+          414,
+          1024
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "3_06731752",
+    "full_image": "./RevealLayerBench/3_06731752/full_image.png",
+    "background": "./RevealLayerBench/3_06731752/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/3_06731752/layer_0.png",
+      "./RevealLayerBench/3_06731752/layer_1.png",
+      "./RevealLayerBench/3_06731752/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          303,
+          223,
+          606,
+          1024
+        ]
+      },
+      {
+        "bbox": [
+          143,
+          178,
+          412,
+          1024
+        ]
+      },
+      {
+        "bbox": [
+          599,
+          163,
+          969,
+          1024
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "3_07755304",
+    "full_image": "./RevealLayerBench/3_07755304/full_image.png",
+    "background": "./RevealLayerBench/3_07755304/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/3_07755304/layer_0.png",
+      "./RevealLayerBench/3_07755304/layer_1.png",
+      "./RevealLayerBench/3_07755304/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          518,
+          277,
+          1012,
+          948
+        ]
+      },
+      {
+        "bbox": [
+          8,
+          307,
+          516,
+          928
+        ]
+      },
+      {
+        "bbox": [
+          802,
+          918,
+          852,
+          1003
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "3_08708384",
+    "full_image": "./RevealLayerBench/3_08708384/full_image.png",
+    "background": "./RevealLayerBench/3_08708384/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/3_08708384/layer_0.png",
+      "./RevealLayerBench/3_08708384/layer_1.png",
+      "./RevealLayerBench/3_08708384/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          580,
+          613,
+          696,
+          729
+        ]
+      },
+      {
+        "bbox": [
+          558,
+          292,
+          1024,
+          711
+        ]
+      },
+      {
+        "bbox": [
+          0,
+          250,
+          469,
+          753
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "3_10276062",
+    "full_image": "./RevealLayerBench/3_10276062/full_image.png",
+    "background": "./RevealLayerBench/3_10276062/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/3_10276062/layer_0.png",
+      "./RevealLayerBench/3_10276062/layer_1.png",
+      "./RevealLayerBench/3_10276062/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          132,
+          401,
+          365,
+          814
+        ]
+      },
+      {
+        "bbox": [
+          672,
+          372,
+          906,
+          801
+        ]
+      },
+      {
+        "bbox": [
+          412,
+          181,
+          597,
+          910
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "3_1055",
+    "full_image": "./RevealLayerBench/3_1055/full_image.png",
+    "background": "./RevealLayerBench/3_1055/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/3_1055/layer_0.png",
+      "./RevealLayerBench/3_1055/layer_1.png",
+      "./RevealLayerBench/3_1055/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          515,
+          671,
+          1024,
+          942
+        ]
+      },
+      {
+        "bbox": [
+          182,
+          703,
+          378,
+          889
+        ]
+      },
+      {
+        "bbox": [
+          0,
+          666,
+          444,
+          963
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "3_12142354",
+    "full_image": "./RevealLayerBench/3_12142354/full_image.png",
+    "background": "./RevealLayerBench/3_12142354/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/3_12142354/layer_0.png",
+      "./RevealLayerBench/3_12142354/layer_1.png",
+      "./RevealLayerBench/3_12142354/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          221,
+          409,
+          562,
+          1024
+        ]
+      },
+      {
+        "bbox": [
+          389,
+          87,
+          675,
+          1024
+        ]
+      },
+      {
+        "bbox": [
+          122,
+          21,
+          449,
+          1024
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "3_12456900",
+    "full_image": "./RevealLayerBench/3_12456900/full_image.png",
+    "background": "./RevealLayerBench/3_12456900/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/3_12456900/layer_0.png",
+      "./RevealLayerBench/3_12456900/layer_1.png",
+      "./RevealLayerBench/3_12456900/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          286,
+          415,
+          633,
+          940
+        ]
+      },
+      {
+        "bbox": [
+          508,
+          255,
+          823,
+          814
+        ]
+      },
+      {
+        "bbox": [
+          119,
+          155,
+          454,
+          831
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "3_12940405",
+    "full_image": "./RevealLayerBench/3_12940405/full_image.png",
+    "background": "./RevealLayerBench/3_12940405/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/3_12940405/layer_0.png",
+      "./RevealLayerBench/3_12940405/layer_1.png",
+      "./RevealLayerBench/3_12940405/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          512,
+          278,
+          889,
+          779
+        ]
+      },
+      {
+        "bbox": [
+          113,
+          278,
+          494,
+          767
+        ]
+      },
+      {
+        "bbox": [
+          0,
+          94,
+          1024,
+          557
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "3_13023091",
+    "full_image": "./RevealLayerBench/3_13023091/full_image.png",
+    "background": "./RevealLayerBench/3_13023091/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/3_13023091/layer_0.png",
+      "./RevealLayerBench/3_13023091/layer_1.png",
+      "./RevealLayerBench/3_13023091/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          738,
+          564,
+          920,
+          678
+        ]
+      },
+      {
+        "bbox": [
+          71,
+          556,
+          329,
+          692
+        ]
+      },
+      {
+        "bbox": [
+          212,
+          73,
+          887,
+          1024
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "3_13163897",
+    "full_image": "./RevealLayerBench/3_13163897/full_image.png",
+    "background": "./RevealLayerBench/3_13163897/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/3_13163897/layer_0.png",
+      "./RevealLayerBench/3_13163897/layer_1.png",
+      "./RevealLayerBench/3_13163897/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          392,
+          489,
+          681,
+          900
+        ]
+      },
+      {
+        "bbox": [
+          29,
+          265,
+          364,
+          916
+        ]
+      },
+      {
+        "bbox": [
+          646,
+          229,
+          996,
+          905
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "3_14200110",
+    "full_image": "./RevealLayerBench/3_14200110/full_image.png",
+    "background": "./RevealLayerBench/3_14200110/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/3_14200110/layer_0.png",
+      "./RevealLayerBench/3_14200110/layer_1.png",
+      "./RevealLayerBench/3_14200110/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          64,
+          348,
+          546,
+          920
+        ]
+      },
+      {
+        "bbox": [
+          600,
+          335,
+          970,
+          752
+        ]
+      },
+      {
+        "bbox": [
+          360,
+          447,
+          604,
+          713
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "3_14569520",
+    "full_image": "./RevealLayerBench/3_14569520/full_image.png",
+    "background": "./RevealLayerBench/3_14569520/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/3_14569520/layer_0.png",
+      "./RevealLayerBench/3_14569520/layer_1.png",
+      "./RevealLayerBench/3_14569520/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          660,
+          635,
+          1008,
+          996
+        ]
+      },
+      {
+        "bbox": [
+          42,
+          622,
+          270,
+          1005
+        ]
+      },
+      {
+        "bbox": [
+          269,
+          119,
+          695,
+          1006
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "3_14876987",
+    "full_image": "./RevealLayerBench/3_14876987/full_image.png",
+    "background": "./RevealLayerBench/3_14876987/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/3_14876987/layer_0.png",
+      "./RevealLayerBench/3_14876987/layer_1.png",
+      "./RevealLayerBench/3_14876987/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          606,
+          145,
+          888,
+          565
+        ]
+      },
+      {
+        "bbox": [
+          123,
+          80,
+          565,
+          595
+        ]
+      },
+      {
+        "bbox": [
+          129,
+          248,
+          896,
+          927
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "3_16345199",
+    "full_image": "./RevealLayerBench/3_16345199/full_image.png",
+    "background": "./RevealLayerBench/3_16345199/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/3_16345199/layer_0.png",
+      "./RevealLayerBench/3_16345199/layer_1.png",
+      "./RevealLayerBench/3_16345199/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          710,
+          369,
+          985,
+          987
+        ]
+      },
+      {
+        "bbox": [
+          23,
+          310,
+          385,
+          979
+        ]
+      },
+      {
+        "bbox": [
+          80,
+          154,
+          803,
+          948
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "3_16518341",
+    "full_image": "./RevealLayerBench/3_16518341/full_image.png",
+    "background": "./RevealLayerBench/3_16518341/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/3_16518341/layer_0.png",
+      "./RevealLayerBench/3_16518341/layer_1.png",
+      "./RevealLayerBench/3_16518341/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          378,
+          538,
+          627,
+          873
+        ]
+      },
+      {
+        "bbox": [
+          557,
+          334,
+          870,
+          900
+        ]
+      },
+      {
+        "bbox": [
+          166,
+          291,
+          334,
+          805
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "3_18715022",
+    "full_image": "./RevealLayerBench/3_18715022/full_image.png",
+    "background": "./RevealLayerBench/3_18715022/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/3_18715022/layer_0.png",
+      "./RevealLayerBench/3_18715022/layer_1.png",
+      "./RevealLayerBench/3_18715022/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          695,
+          118,
+          902,
+          883
+        ]
+      },
+      {
+        "bbox": [
+          433,
+          124,
+          630,
+          883
+        ]
+      },
+      {
+        "bbox": [
+          142,
+          138,
+          353,
+          962
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "3_18909332",
+    "full_image": "./RevealLayerBench/3_18909332/full_image.png",
+    "background": "./RevealLayerBench/3_18909332/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/3_18909332/layer_0.png",
+      "./RevealLayerBench/3_18909332/layer_1.png",
+      "./RevealLayerBench/3_18909332/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          613,
+          194,
+          894,
+          675
+        ]
+      },
+      {
+        "bbox": [
+          218,
+          243,
+          673,
+          828
+        ]
+      },
+      {
+        "bbox": [
+          56,
+          540,
+          726,
+          892
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "3_4531",
+    "full_image": "./RevealLayerBench/3_4531/full_image.png",
+    "background": "./RevealLayerBench/3_4531/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/3_4531/layer_0.png",
+      "./RevealLayerBench/3_4531/layer_1.png",
+      "./RevealLayerBench/3_4531/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          438,
+          495,
+          757,
+          923
+        ]
+      },
+      {
+        "bbox": [
+          433,
+          432,
+          1024,
+          933
+        ]
+      },
+      {
+        "bbox": [
+          97,
+          327,
+          572,
+          899
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "4_09264728",
+    "full_image": "./RevealLayerBench/4_09264728/full_image.png",
+    "background": "./RevealLayerBench/4_09264728/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/4_09264728/layer_0.png",
+      "./RevealLayerBench/4_09264728/layer_1.png",
+      "./RevealLayerBench/4_09264728/layer_2.png",
+      "./RevealLayerBench/4_09264728/layer_3.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          625,
+          258,
+          961,
+          612
+        ]
+      },
+      {
+        "bbox": [
+          642,
+          340,
+          1024,
+          820
+        ]
+      },
+      {
+        "bbox": [
+          166,
+          0,
+          599,
+          420
+        ]
+      },
+      {
+        "bbox": [
+          0,
+          509,
+          400,
+          979
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "4_10424047",
+    "full_image": "./RevealLayerBench/4_10424047/full_image.png",
+    "background": "./RevealLayerBench/4_10424047/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/4_10424047/layer_0.png",
+      "./RevealLayerBench/4_10424047/layer_1.png",
+      "./RevealLayerBench/4_10424047/layer_2.png",
+      "./RevealLayerBench/4_10424047/layer_3.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          507,
+          413,
+          952,
+          795
+        ]
+      },
+      {
+        "bbox": [
+          41,
+          337,
+          430,
+          662
+        ]
+      },
+      {
+        "bbox": [
+          402,
+          668,
+          986,
+          938
+        ]
+      },
+      {
+        "bbox": [
+          29,
+          572,
+          526,
+          774
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "4_2242",
+    "full_image": "./RevealLayerBench/4_2242/full_image.png",
+    "background": "./RevealLayerBench/4_2242/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/4_2242/layer_0.png",
+      "./RevealLayerBench/4_2242/layer_1.png",
+      "./RevealLayerBench/4_2242/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          355,
+          630,
+          645,
+          904
+        ]
+      },
+      {
+        "bbox": [
+          321,
+          572,
+          871,
+          848
+        ]
+      },
+      {
+        "bbox": [
+          129,
+          620,
+          385,
+          819
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "4_3018",
+    "full_image": "./RevealLayerBench/4_3018/full_image.png",
+    "background": "./RevealLayerBench/4_3018/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/4_3018/layer_0.png",
+      "./RevealLayerBench/4_3018/layer_1.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          565,
+          573,
+          767,
+          703
+        ],
+        "score": 0.963240385055542
+      },
+      {
+        "bbox": [
+          428,
+          603,
+          977,
+          732
+        ],
+        "score": 0.9247251152992249
+      }
+    ]
+  },
+  {
+    "imgid": "4_4555",
+    "full_image": "./RevealLayerBench/4_4555/full_image.png",
+    "background": "./RevealLayerBench/4_4555/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/4_4555/layer_0.png",
+      "./RevealLayerBench/4_4555/layer_1.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          369,
+          735,
+          900,
+          998
+        ],
+        "score": 0.8508852124214172
+      },
+      {
+        "bbox": [
+          227,
+          762,
+          703,
+          922
+        ],
+        "score": 0.8570870161056519
+      }
+    ]
+  },
+  {
+    "imgid": "4_7032",
+    "full_image": "./RevealLayerBench/4_7032/full_image.png",
+    "background": "./RevealLayerBench/4_7032/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/4_7032/layer_0.png",
+      "./RevealLayerBench/4_7032/layer_1.png",
+      "./RevealLayerBench/4_7032/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          468,
+          536,
+          1024,
+          904
+        ]
+      },
+      {
+        "bbox": [
+          246,
+          471,
+          386,
+          659
+        ]
+      },
+      {
+        "bbox": [
+          49,
+          514,
+          509,
+          704
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "5_1009",
+    "full_image": "./RevealLayerBench/5_1009/full_image.png",
+    "background": "./RevealLayerBench/5_1009/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/5_1009/layer_0.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          210,
+          422,
+          857,
+          772
+        ],
+        "score": 0.8349458575248718
+      }
+    ]
+  },
+  {
+    "imgid": "5_1371",
+    "full_image": "./RevealLayerBench/5_1371/full_image.png",
+    "background": "./RevealLayerBench/5_1371/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/5_1371/layer_0.png",
+      "./RevealLayerBench/5_1371/layer_1.png",
+      "./RevealLayerBench/5_1371/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          603,
+          668,
+          673,
+          722
+        ],
+        "score": 0.8586170673370361
+      },
+      {
+        "bbox": [
+          659,
+          673,
+          888,
+          980
+        ],
+        "score": 0.9628717303276062
+      },
+      {
+        "bbox": [
+          548,
+          545,
+          1024,
+          986
+        ],
+        "score": 0.8343414664268494
+      }
+    ]
+  },
+  {
+    "imgid": "5_3046",
+    "full_image": "./RevealLayerBench/5_3046/full_image.png",
+    "background": "./RevealLayerBench/5_3046/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/5_3046/layer_0.png",
+      "./RevealLayerBench/5_3046/layer_1.png",
+      "./RevealLayerBench/5_3046/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          636,
+          602,
+          807,
+          825
+        ]
+      },
+      {
+        "bbox": [
+          123,
+          708,
+          518,
+          819
+        ]
+      },
+      {
+        "bbox": [
+          331,
+          614,
+          641,
+          798
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "5_3182",
+    "full_image": "./RevealLayerBench/5_3182/full_image.png",
+    "background": "./RevealLayerBench/5_3182/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/5_3182/layer_0.png",
+      "./RevealLayerBench/5_3182/layer_1.png",
+      "./RevealLayerBench/5_3182/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          626,
+          744,
+          894,
+          964
+        ]
+      },
+      {
+        "bbox": [
+          361,
+          649,
+          532,
+          967
+        ]
+      },
+      {
+        "bbox": [
+          194,
+          21,
+          469,
+          958
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "5_5370",
+    "full_image": "./RevealLayerBench/5_5370/full_image.png",
+    "background": "./RevealLayerBench/5_5370/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/5_5370/layer_0.png",
+      "./RevealLayerBench/5_5370/layer_1.png",
+      "./RevealLayerBench/5_5370/layer_2.png",
+      "./RevealLayerBench/5_5370/layer_3.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          507,
+          705,
+          974,
+          861
+        ]
+      },
+      {
+        "bbox": [
+          407,
+          607,
+          519,
+          806
+        ]
+      },
+      {
+        "bbox": [
+          456,
+          553,
+          622,
+          758
+        ]
+      },
+      {
+        "bbox": [
+          215,
+          535,
+          451,
+          774
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "5_6898",
+    "full_image": "./RevealLayerBench/5_6898/full_image.png",
+    "background": "./RevealLayerBench/5_6898/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/5_6898/layer_0.png",
+      "./RevealLayerBench/5_6898/layer_1.png",
+      "./RevealLayerBench/5_6898/layer_2.png",
+      "./RevealLayerBench/5_6898/layer_3.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          787,
+          465,
+          900,
+          576
+        ]
+      },
+      {
+        "bbox": [
+          601,
+          349,
+          787,
+          531
+        ]
+      },
+      {
+        "bbox": [
+          67,
+          175,
+          305,
+          462
+        ]
+      },
+      {
+        "bbox": [
+          0,
+          195,
+          553,
+          622
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "5_7001",
+    "full_image": "./RevealLayerBench/5_7001/full_image.png",
+    "background": "./RevealLayerBench/5_7001/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/5_7001/layer_0.png",
+      "./RevealLayerBench/5_7001/layer_1.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          17,
+          245,
+          602,
+          959
+        ]
+      },
+      {
+        "bbox": [
+          264,
+          69,
+          903,
+          833
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "5_8035_1",
+    "full_image": "./RevealLayerBench/5_8035_1/full_image.png",
+    "background": "./RevealLayerBench/5_8035_1/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/5_8035_1/layer_0.png",
+      "./RevealLayerBench/5_8035_1/layer_1.png",
+      "./RevealLayerBench/5_8035_1/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          628,
+          647,
+          927,
+          807
+        ],
+        "score": 0.7898792028427124
+      },
+      {
+        "bbox": [
+          547,
+          555,
+          810,
+          695
+        ],
+        "score": 0.8412163853645325
+      },
+      {
+        "bbox": [
+          118,
+          630,
+          595,
+          785
+        ],
+        "score": 0.9495047926902771
+      }
+    ]
+  },
+  {
+    "imgid": "6_1245",
+    "full_image": "./RevealLayerBench/6_1245/full_image.png",
+    "background": "./RevealLayerBench/6_1245/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/6_1245/layer_0.png",
+      "./RevealLayerBench/6_1245/layer_1.png",
+      "./RevealLayerBench/6_1245/layer_2.png",
+      "./RevealLayerBench/6_1245/layer_3.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          539,
+          828,
+          638,
+          892
+        ]
+      },
+      {
+        "bbox": [
+          540,
+          827,
+          638,
+          891
+        ]
+      },
+      {
+        "bbox": [
+          121,
+          826,
+          672,
+          930
+        ]
+      },
+      {
+        "bbox": [
+          487,
+          482,
+          993,
+          852
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "6_3020",
+    "full_image": "./RevealLayerBench/6_3020/full_image.png",
+    "background": "./RevealLayerBench/6_3020/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/6_3020/layer_0.png",
+      "./RevealLayerBench/6_3020/layer_1.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          448,
+          355,
+          673,
+          721
+        ],
+        "score": 0.9756162166595459
+      },
+      {
+        "bbox": [
+          411,
+          510,
+          650,
+          937
+        ],
+        "score": 0.9353706240653992
+      }
+    ]
+  },
+  {
+    "imgid": "6_5506",
+    "full_image": "./RevealLayerBench/6_5506/full_image.png",
+    "background": "./RevealLayerBench/6_5506/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/6_5506/layer_0.png",
+      "./RevealLayerBench/6_5506/layer_1.png",
+      "./RevealLayerBench/6_5506/layer_2.png",
+      "./RevealLayerBench/6_5506/layer_3.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          297,
+          429,
+          742,
+          916
+        ]
+      },
+      {
+        "bbox": [
+          508,
+          186,
+          919,
+          596
+        ]
+      },
+      {
+        "bbox": [
+          92,
+          190,
+          506,
+          652
+        ]
+      },
+      {
+        "bbox": [
+          0,
+          19,
+          1024,
+          1024
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "6_6035",
+    "full_image": "./RevealLayerBench/6_6035/full_image.png",
+    "background": "./RevealLayerBench/6_6035/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/6_6035/layer_0.png",
+      "./RevealLayerBench/6_6035/layer_1.png",
+      "./RevealLayerBench/6_6035/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          325,
+          479,
+          808,
+          670
+        ],
+        "score": 0.9524098634719849
+      },
+      {
+        "bbox": [
+          0,
+          573,
+          1024,
+          829
+        ],
+        "score": 0.9673425555229187
+      },
+      {
+        "bbox": [
+          129,
+          361,
+          783,
+          587
+        ],
+        "score": 0.9262509942054749
+      }
+    ]
+  },
+  {
+    "imgid": "6_7293",
+    "full_image": "./RevealLayerBench/6_7293/full_image.png",
+    "background": "./RevealLayerBench/6_7293/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/6_7293/layer_0.png",
+      "./RevealLayerBench/6_7293/layer_1.png",
+      "./RevealLayerBench/6_7293/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          359,
+          691,
+          574,
+          847
+        ]
+      },
+      {
+        "bbox": [
+          105,
+          680,
+          545,
+          852
+        ]
+      },
+      {
+        "bbox": [
+          470,
+          668,
+          884,
+          846
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "7_493",
+    "full_image": "./RevealLayerBench/7_493/full_image.png",
+    "background": "./RevealLayerBench/7_493/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/7_493/layer_0.png",
+      "./RevealLayerBench/7_493/layer_1.png",
+      "./RevealLayerBench/7_493/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          593,
+          469,
+          994,
+          870
+        ]
+      },
+      {
+        "bbox": [
+          293,
+          641,
+          1024,
+          932
+        ]
+      },
+      {
+        "bbox": [
+          280,
+          652,
+          390,
+          796
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "8_1777",
+    "full_image": "./RevealLayerBench/8_1777/full_image.png",
+    "background": "./RevealLayerBench/8_1777/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/8_1777/layer_0.png",
+      "./RevealLayerBench/8_1777/layer_1.png",
+      "./RevealLayerBench/8_1777/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          704,
+          725,
+          962,
+          932
+        ]
+      },
+      {
+        "bbox": [
+          624,
+          604,
+          824,
+          902
+        ]
+      },
+      {
+        "bbox": [
+          140,
+          713,
+          331,
+          935
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "8_188",
+    "full_image": "./RevealLayerBench/8_188/full_image.png",
+    "background": "./RevealLayerBench/8_188/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/8_188/layer_0.png",
+      "./RevealLayerBench/8_188/layer_1.png",
+      "./RevealLayerBench/8_188/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          222,
+          589,
+          754,
+          754
+        ]
+      },
+      {
+        "bbox": [
+          144,
+          580,
+          227,
+          772
+        ]
+      },
+      {
+        "bbox": [
+          73,
+          478,
+          275,
+          699
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "8_3252",
+    "full_image": "./RevealLayerBench/8_3252/full_image.png",
+    "background": "./RevealLayerBench/8_3252/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/8_3252/layer_0.png",
+      "./RevealLayerBench/8_3252/layer_1.png",
+      "./RevealLayerBench/8_3252/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          539,
+          589,
+          983,
+          861
+        ]
+      },
+      {
+        "bbox": [
+          308,
+          514,
+          931,
+          747
+        ]
+      },
+      {
+        "bbox": [
+          0,
+          88,
+          443,
+          722
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "8_4509",
+    "full_image": "./RevealLayerBench/8_4509/full_image.png",
+    "background": "./RevealLayerBench/8_4509/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/8_4509/layer_0.png",
+      "./RevealLayerBench/8_4509/layer_1.png",
+      "./RevealLayerBench/8_4509/layer_2.png",
+      "./RevealLayerBench/8_4509/layer_3.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          515,
+          490,
+          681,
+          729
+        ]
+      },
+      {
+        "bbox": [
+          620,
+          410,
+          833,
+          702
+        ]
+      },
+      {
+        "bbox": [
+          449,
+          545,
+          506,
+          728
+        ]
+      },
+      {
+        "bbox": [
+          160,
+          581,
+          308,
+          720
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "8_4979",
+    "full_image": "./RevealLayerBench/8_4979/full_image.png",
+    "background": "./RevealLayerBench/8_4979/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/8_4979/layer_0.png",
+      "./RevealLayerBench/8_4979/layer_1.png",
+      "./RevealLayerBench/8_4979/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          388,
+          574,
+          582,
+          853
+        ]
+      },
+      {
+        "bbox": [
+          495,
+          450,
+          718,
+          834
+        ]
+      },
+      {
+        "bbox": [
+          46,
+          622,
+          362,
+          928
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "8_5503",
+    "full_image": "./RevealLayerBench/8_5503/full_image.png",
+    "background": "./RevealLayerBench/8_5503/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/8_5503/layer_0.png",
+      "./RevealLayerBench/8_5503/layer_1.png",
+      "./RevealLayerBench/8_5503/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          536,
+          526,
+          849,
+          743
+        ],
+        "score": 0.9501498937606812
+      },
+      {
+        "bbox": [
+          407,
+          608,
+          525,
+          725
+        ],
+        "score": 0.9586839079856873
+      },
+      {
+        "bbox": [
+          208,
+          607,
+          891,
+          709
+        ],
+        "score": 0.8159166574478149
+      }
+    ]
+  },
+  {
+    "imgid": "9_1097",
+    "full_image": "./RevealLayerBench/9_1097/full_image.png",
+    "background": "./RevealLayerBench/9_1097/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/9_1097/layer_0.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          501,
+          313,
+          690,
+          860
+        ],
+        "score": 0.7573645710945129
+      }
+    ]
+  },
+  {
+    "imgid": "9_5019",
+    "full_image": "./RevealLayerBench/9_5019/full_image.png",
+    "background": "./RevealLayerBench/9_5019/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/9_5019/layer_0.png",
+      "./RevealLayerBench/9_5019/layer_1.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          261,
+          140,
+          752,
+          699
+        ]
+      },
+      {
+        "bbox": [
+          164,
+          426,
+          849,
+          804
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "9_5748",
+    "full_image": "./RevealLayerBench/9_5748/full_image.png",
+    "background": "./RevealLayerBench/9_5748/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/9_5748/layer_0.png",
+      "./RevealLayerBench/9_5748/layer_1.png",
+      "./RevealLayerBench/9_5748/layer_2.png",
+      "./RevealLayerBench/9_5748/layer_3.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          661,
+          593,
+          1024,
+          868
+        ]
+      },
+      {
+        "bbox": [
+          659,
+          362,
+          1024,
+          756
+        ]
+      },
+      {
+        "bbox": [
+          65,
+          530,
+          365,
+          796
+        ]
+      },
+      {
+        "bbox": [
+          0,
+          313,
+          361,
+          683
+        ]
+      }
+    ]
+  },
+  {
+    "imgid": "9_7711",
+    "full_image": "./RevealLayerBench/9_7711/full_image.png",
+    "background": "./RevealLayerBench/9_7711/background.png",
+    "LayerInfoRaw": [
+      "./RevealLayerBench/9_7711/layer_0.png",
+      "./RevealLayerBench/9_7711/layer_1.png",
+      "./RevealLayerBench/9_7711/layer_2.png"
+    ],
+    "detections": [
+      {
+        "bbox": [
+          620,
+          837,
+          699,
+          900
+        ]
+      },
+      {
+        "bbox": [
+          617,
+          717,
+          929,
+          860
+        ]
+      },
+      {
+        "bbox": [
+          171,
+          733,
+          966,
+          968
+        ]
+      }
+    ]
+  }
+]
