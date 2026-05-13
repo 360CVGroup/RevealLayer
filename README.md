@@ -227,8 +227,9 @@ Run inference with:
 ```bash
 bash infer.sh 0
 ```
+> **Note:** `--guidance_scale` controls the decomposition strength. In our experiments, we use `--guidance_scale 1.0`, which provides the best background removal performance while preserving background details.
 
-Before running, please make sure the paths in `infer.sh` and `infer_new.py` match your local model and data directories.
+Before running, please make sure the paths in `infer.sh` and `infer.py` match your local model and data directories.
 
 ---
 
