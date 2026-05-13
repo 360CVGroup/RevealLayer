@@ -45,11 +45,11 @@
     <img src="https://img.shields.io/static/v1?label=Paper&message=arXiv&color=red&logo=arxiv">
   </a>
   &ensp;
-  <a href="TODO_DATASET_LINK" target="_blank">
+  <a href="https://huggingface.co/qihoo360/RevealLayer" target="_blank">
     <img src="https://img.shields.io/static/v1?label=Dataset&message=RevealLayer&color=green">
   </a>
   &ensp;
-  <a href="TODO_MODEL_LINK" target="_blank">
+  <a href="https://huggingface.co/qihoo360/RevealLayer" target="_blank">
     <img src="https://img.shields.io/static/v1?label=Model&message=HuggingFace&color=yellow">
   </a>
 </div>
@@ -74,9 +74,9 @@ For more visual results, go checkout our <a href="https://360cvgroup.github.io/R
 
 ## ⭐ Update
 
-- **[2026.05]** We released the RevealLayer paper and inference code.
-- **[2026.05]** We released the RevealLayer checkpoint.
 - **[2026.05]** RevealLayer has been accepted by ICML 2026.
+- **[2026.05]** We released the RevealLayer paper and inference code.
+- **[2026.05]** We released the RevealLayer checkpoint on [Hugging Face](https://huggingface.co/qihoo360/RevealLayer).
 
 ### ✅ TODO
 
