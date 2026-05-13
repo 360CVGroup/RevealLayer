@@ -74,9 +74,8 @@ For more visual results, go checkout our <a href="https://360cvgroup.github.io/R
 
 ## ⭐ Update
 
-- **[2026.05]** RevealLayer has been accepted by ICML 2026.
-- **[2026.05]** We released the RevealLayer paper and inference code.
 - **[2026.05]** We released the RevealLayer checkpoint on [Hugging Face](https://huggingface.co/qihoo360/RevealLayer).
+- **[2026.05]** We released the RevealLayer paper and inference code.
 
 ### ✅ TODO
 
@@ -103,7 +102,7 @@ RevealLayer focuses on occlusion-aware image layer decomposition, recovering vis
 
 We construct a large-scale multi-layer image decomposition dataset, including **RevealLayer-100K** for training and **RevealLayerBench** for evaluation. RevealLayer-100K contains 100K multi-layer natural image tuples with RGB images, background layers, RGBA foreground layers, and bounding boxes. RevealLayerBench contains 200 high-quality manually curated images, covering challenging cases such as complex occlusions, large-area objects, transparent materials, small foreground objects, and multi-layer scenes.
 
-🔥 We will release **RevealLayer-100K** and **RevealLayerBench** on [Hugging Face](TODO_DATASET_LINK). We hope they can serve as useful training and evaluation resources for future research on occlusion-aware image layer decomposition.
+🔥 We will release **RevealLayer-100K** and **RevealLayerBench** on [Hugging Face](https://huggingface.co/qihoo360/RevealLayer). We hope they can serve as useful training and evaluation resources for future research on occlusion-aware image layer decomposition.
 
 > 🚩 The datasets are intended for research use. Please follow the license and terms provided with the released dataset.
 
