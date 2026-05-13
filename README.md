@@ -66,7 +66,7 @@ RevealLayer decomposes an RGB image into multiple RGBA layers, enabling precise 
     <img style="width:100%" src="assets/demo1.png" alt="RevealLayer teaser">
 </div>
 
-For more visual results, go checkout our <a href="https://zhao0100.github.io/RevealLayer/" target="_blank">project page</a>.
+For more visual results, go checkout our <a href="https://360cvgroup.github.io/RevealLayer/" target="_blank">project page</a>.
 
 ---
 
