@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/static/v1?label=Project%20Page&message=Github&color=blue&logo=github-pages">
   </a>
   &ensp;
-  <a href="TODO_ARXIV_LINK" target="_blank">
+  <a href="https://arxiv.org/abs/2605.11818" target="_blank">
     <img src="https://img.shields.io/static/v1?label=Paper&message=arXiv&color=red&logo=arxiv">
   </a>
   &ensp;
