@@ -52,6 +52,10 @@
   <a href="https://huggingface.co/qihoo360/RevealLayer" target="_blank">
     <img src="https://img.shields.io/static/v1?label=Model&message=HuggingFace&color=yellow">
   </a>
+  &ensp;
+  <a href="https://research.360.cn/products/Reveal-Layer" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=App/API&message=RevealLayer&color=brightgreen">
+  </a>
 </div>
 
 <br>
