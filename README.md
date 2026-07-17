@@ -77,7 +77,7 @@ For more visual results, go checkout our <a href="https://360cvgroup.github.io/R
 </div>
 
 ## ⭐ Update
-- **[2026.07]** 🔥🔥[RevealLayer V2](https://research.360.cn/products/Reveal-Layer) is now available with improved performance.
+- **[2026.06]** 🔥🔥[RevealLayer V2](https://research.360.cn/products/Reveal-Layer) is now available with improved performance.
 - **[2026.05]** We released the RevealLayer checkpoint on [Hugging Face](https://huggingface.co/qihoo360/RevealLayer).
 - **[2026.05]** We released the RevealLayer paper and inference code.
 
